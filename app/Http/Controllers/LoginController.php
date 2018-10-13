@@ -12,6 +12,12 @@ class LoginController extends Controller {
    public function loginform(){
       return view('login');
    }
-	
+    
+   public function loginuser(Request $request){
+    $name = $request->input('name');
+    $email = $request->input('email');
+    $password = $request->input('password');
+
+ }
 
 }
