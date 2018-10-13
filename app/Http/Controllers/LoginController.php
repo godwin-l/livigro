@@ -16,12 +16,14 @@ class LoginController extends Controller {
    public function loginuser(Request $request){
     $email = $request->input('email');
     $password = $request->input('password');
-     echo $email;
-     echo "<br>";
-     echo $password;
+     
       $users = DB::select('select * from users');
-      $sample = $users->email;
-      echo $sample;
+      foreach ($users as $user) {
+        echo $user->email;
+        echo " ";
+        echo $user->password;
+        echo "<br>";
+    }
       //return view('authentication',['users'=>$users]);
 
  }
