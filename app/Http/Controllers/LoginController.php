@@ -18,7 +18,9 @@ class LoginController extends Controller {
     $password = $request->input('password');
 
       $users = DB::select('select * from users');
-      return view('authentication',['users'=>$users]);
+      $sample = $users->email;
+      echo $sample;
+      //return view('authentication',['users'=>$users]);
 
  }
 

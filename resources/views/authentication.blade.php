@@ -1,7 +1,6 @@
 <html>
    
    <head>
-      <title>View Student Records</title>
    </head>
    
    <body>
