@@ -17,7 +17,7 @@ class LoginController extends Controller {
     $email = $request->input('email');
     $password = $request->input('password');
      
-      $users = DB::select('select * from users')->first();
+      $users = DB::select('select * from users');
 
       foreach ($users as $user) {
         $emaildb = $user->email;
