@@ -24,7 +24,7 @@ class LoginController extends Controller {
         $emaildb = $user->email;
         $passworddb = $user->password;
 
-        if($email == $emaildb && $password == $passworddb)
+        if($emaildb != '' && $passworddb != '')
         {
             return view('authentication',['users'=>$users]);
         }
