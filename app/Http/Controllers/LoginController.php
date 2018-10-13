@@ -14,9 +14,11 @@ class LoginController extends Controller {
    }
     
    public function loginuser(Request $request){
-    $name = $request->input('name');
     $email = $request->input('email');
     $password = $request->input('password');
+
+      $users = DB::select('select * from users');
+      return view('authentication',['users'=>$users]);
 
  }
 
