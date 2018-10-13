@@ -17,14 +17,22 @@ class LoginController extends Controller {
     $email = $request->input('email');
     $password = $request->input('password');
      
-      $users = DB::select('select * from users');
+      $users = DB::select('select * from users where email=$email AND password=$password')->first();
       foreach ($users as $user) {
-        echo $user->email;
-        echo " ";
-        echo $user->password;
-        echo "<br>";
+        $emaildb = $user->email;
+        $passworddb = $user->password;
+
+        if($email == $emaildb && $password == $passworddb)
+        {
+            return view('authentication',['users'=>$users]);
+        }
+        else
+        {
+            echo "failed";
+        }
+        
     }
-      //return view('authentication',['users'=>$users]);
+      
 
  }
 
