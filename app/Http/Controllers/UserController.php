@@ -6,7 +6,11 @@ use Illuminate\Http\Request;
 use App\model\User;
 class UserController extends Controller
 {
-    
+    public function index(){
+        return view('index');
+    }
+
+
     public function login(Request $request){
         
         $this->validate($request,['email'=>'required','password'=>'required']);

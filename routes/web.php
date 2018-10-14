@@ -11,6 +11,10 @@
 |
 */
 
-Route::get('/', 'IndexController@index');
+Route::get('/', 'UserController@index');
 
-Route::get('/login', 'IndexController@index');
+Route::get('/list', 'LabController@labList');
+
+Route::get('/book/{id}', 'LabController@bookLab');
+
+Route::get('/view/{id}', 'LabController@viewLab');
