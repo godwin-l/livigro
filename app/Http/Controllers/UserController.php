@@ -14,17 +14,17 @@ class UserController extends Controller
         $password = $request->input('password');
         $user = User::where('email',$email)->where('password',$password)->get();
         if($user->count()){
-            return view('home.header')->with('user',$user);
+            return view('home.dashboard')->with('user',$user);
         }
             else{
-                return view('home.header')->with('error',"User not found");
+                return view('user.login')->with('error',"User not found");
             }
     }
     
     public function register(Request $request){
         $this->validate($request,['name'=>'required','email'=>'required','password'=>'required']);
         if(User::where('email',$email)->count()){
-            return view('home.header')->with('error','User already exist');
+            return view('user.register')->with('error','User already exist');
         }
         else{
         $user = new User;
@@ -32,7 +32,7 @@ class UserController extends Controller
         $user->email = $request->input('email');
         $user->password = $request->input('password');
         $user->save();
-        return view('home.header')->with('success','Registered successfully');
+        return view('user.login')->with('success','Registered successfully');
         }
     }
 }
