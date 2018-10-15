@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Session;
+
 use App\model\Labs;
 class LabController extends Controller
 {
@@ -14,7 +14,6 @@ class LabController extends Controller
     }
     public function labList(){
         $labs = Labs::all();
-        Session::put('user', 2);
         return view('lab.list')->with('labs',$labs);
     }
     
