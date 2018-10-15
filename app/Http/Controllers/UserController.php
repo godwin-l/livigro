@@ -3,6 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Session;
+        
 use App\model\User;
 class UserController extends Controller
 {
@@ -26,6 +28,7 @@ public function registerView(){
         $user = User::where('email',$email)->where('password',$password)->get();
         if($user->count()){
             return view('home.profile')->with('user',$user[0]);
+            Session::put('user', $user[0]->id);
         }
             else{
                 return view('user.login')->with('error',"User not found")->with('success','');;
