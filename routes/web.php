@@ -13,8 +13,22 @@
 
 Route::get('/', 'UserController@index');
 
+Route::get('/login', 'UserController@loginView');
+
+Route::get('/register', 'UserController@registerView');
+
+Route::get('/search', 'LabController@labView');
+
+Route::get('/list', 'LabController@labList');
+
 Route::get('/list', 'LabController@labList');
 
 Route::get('/book/{id}', 'LabController@bookLab');
 
 Route::get('/view/{id}', 'LabController@viewLab');
+
+Route::post('/login', 'UserController@login');
+
+Route::post('/register', 'UserController@register');
+
+Route::post('/search', 'LabController@searchLab');
