@@ -1,25 +1,29 @@
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="../xmlrpc.php">
 
-<title>Register - Livigro</title>
+<title>Corporate</title>
 
+<!-- This site is optimized with the Yoast SEO plugin v7.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Livigro corporate is specially designed for corporates, institutions or any organisations that care about employees’ health."/>
 <link rel="canonical" href="index.html" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Essential Health Checkup - Livigro" />
-<meta property="og:description" content="LIVIGRO CONFIRM BOOKING" />
+<meta property="og:title" content="Corporate" />
+<meta property="og:description" content="Livigro corporate is specially designed for corporates, institutions or any organisations that care about employees’ health." />
 <meta property="og:url" content="index.html" />
 <meta property="og:site_name" content="Livigro" />
 <meta property="article:publisher" content="https://facebook.com/livigro" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="LIVIGRO CONFIRM BOOKING" />
-<meta name="twitter:title" content="Essential Health Checkup - Livigro" />
+<meta name="twitter:description" content="Livigro corporate is specially designed for corporates, institutions or any organisations that care about employees’ health." />
+<meta name="twitter:title" content="Corporate" />
+<meta name="twitter:image" content="../wp-content/uploads/2018/06/arrow.png" />
 <script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.livigro.com\/","sameAs":["https:\/\/facebook.com\/livigro","index.html\/\/instagram.com\/livigro","https:\/\/www.linkedin.com\/company\/belongcare\/"],"@id":"https:\/\/www.livigro.com\/#organization","name":"Belongcare Meditech PVT.LTD","logo":"https:\/\/www.livigro.com\/wp-content\/uploads\/2018\/06\/Livigro-Logo.jpg"}</script>
 <!-- / Yoast SEO plugin. -->
 
@@ -59,6 +63,7 @@ img.emoji {
 <link rel='stylesheet' id='sow-button-base-css'  href='../wp-content/plugins/so-widgets-bundle/widgets/button/css/style4d85.css?ver=1.12.0' type='text/css' media='all' />
 <link rel='stylesheet' id='sow-button-atom-04647aa9f8bb-css'  href='../wp-content/uploads/siteorigin-widgets/sow-button-atom-04647aa9f8bb5010.css?ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='sow-headline-default-0f5d89ef5f37-css'  href='../wp-content/uploads/siteorigin-widgets/sow-headline-default-0f5d89ef5f375010.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-image-default-bd5cd9da0588-css'  href='../wp-content/uploads/siteorigin-widgets/sow-image-default-bd5cd9da05885010.css?ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='parent-style-css'  href='../wp-content/themes/rocked/style5010.css?ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='child-style-css'  href='../wp-content/themes/livigro/style5010.css?ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='rocked-style-css'  href='../wp-content/themes/livigro/style5010.css?ver=4.9.8' type='text/css' media='all' />
@@ -96,18 +101,21 @@ body { color:#555555}
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.9.8" />
-<link rel='shortlink' href='../index46b2.html?p=1925' />
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed54a7.json?url=https%3A%2F%2Fwww.livigro.com%2Fessential-health-p%2F" />
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedd589?url=https%3A%2F%2Fwww.livigro.com%2Fessential-health-p%2F&amp;format=xml" />
-
+<link rel='shortlink' href='../indexaaf8.html?p=822' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed5262.json?url=https%3A%2F%2Fwww.livigro.com%2Fcorporate-2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embeda197?url=https%3A%2F%2Fwww.livigro.com%2Fcorporate-2%2F&amp;format=xml" />
+<!--[if lt IE 9]>
+<script src="https://www.livigro.com/wp-content/themes/rocked/js/html5shiv.js"></script>
+<![endif]-->
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 			<style type="text/css">
 		.header-image {
+			background-image: url();
 			display: block;
 		}
 	</style>
 	                <style type="text/css" media="all"
-                       id="siteorigin-panels-layouts-head">/* Layout 1925 */ #pgc-1925-0-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-1925 #panel-1925-0-0-0 {  } #pl-1925 .so-panel , #pl-1925 .so-panel:last-child { margin-bottom:0px } #pg-1925-0.panel-no-style, #pg-1925-0.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } @media (max-width:780px){ #pg-1925-0.panel-no-style, #pg-1925-0.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-1925-0 .panel-grid-cell { margin-right:0 } #pg-1925-0 .panel-grid-cell { width:100% } #pl-1925 .panel-grid-cell { padding:0 } #pl-1925 .panel-grid .panel-grid-cell-empty { display:none } #pl-1925 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } /* Layout w5b84f73ae905a */ #pgc-w5b84f73ae905a-0-0 , #pgc-w5b84f73ae905a-1-0 , #pgc-w5b84f73ae905a-2-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-w5b84f73ae905a #panel-w5b84f73ae905a-0-0-0 , #pl-w5b84f73ae905a #panel-w5b84f73ae905a-1-0-0 {  } #pg-w5b84f73ae905a-0 , #pg-w5b84f73ae905a-1 , #pl-w5b84f73ae905a .so-panel , #pl-w5b84f73ae905a .so-panel:last-child { margin-bottom:0px } #pg-w5b84f73ae905a-0.panel-no-style, #pg-w5b84f73ae905a-0.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-1.panel-no-style, #pg-w5b84f73ae905a-1.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-2.panel-no-style, #pg-w5b84f73ae905a-2.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #pgc-w5b84f73ae905a-1-0 { align-self:auto } #panel-w5b84f73ae905a-1-0-0> .panel-widget-style { padding:40px 0px 0px 0px } @media (max-width:780px){ #pg-w5b84f73ae905a-0.panel-no-style, #pg-w5b84f73ae905a-0.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-1.panel-no-style, #pg-w5b84f73ae905a-1.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-2.panel-no-style, #pg-w5b84f73ae905a-2.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-w5b84f73ae905a-0 .panel-grid-cell , #pg-w5b84f73ae905a-1 .panel-grid-cell , #pg-w5b84f73ae905a-2 .panel-grid-cell { margin-right:0 } #pg-w5b84f73ae905a-0 .panel-grid-cell , #pg-w5b84f73ae905a-1 .panel-grid-cell , #pg-w5b84f73ae905a-2 .panel-grid-cell { width:100% } #pl-w5b84f73ae905a .panel-grid-cell { padding:0 } #pl-w5b84f73ae905a .panel-grid .panel-grid-cell-empty { display:none } #pl-w5b84f73ae905a .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } /* Layout w5b84f73ae8f9a */ #pgc-w5b84f73ae8f9a-0-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-w5b84f73ae8f9a #panel-w5b84f73ae8f9a-0-0-0 {  } #pl-w5b84f73ae8f9a .so-panel , #pl-w5b84f73ae8f9a .so-panel:last-child { margin-bottom:0px } #pg-w5b84f73ae8f9a-0.panel-no-style, #pg-w5b84f73ae8f9a-0.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } @media (max-width:780px){ #pg-w5b84f73ae8f9a-0.panel-no-style, #pg-w5b84f73ae8f9a-0.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-w5b84f73ae8f9a-0 .panel-grid-cell { margin-right:0 } #pg-w5b84f73ae8f9a-0 .panel-grid-cell { width:100% } #pl-w5b84f73ae8f9a .panel-grid-cell { padding:0 } #pl-w5b84f73ae8f9a .panel-grid .panel-grid-cell-empty { display:none } #pl-w5b84f73ae8f9a .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style>
+                       id="siteorigin-panels-layouts-head">/* Layout 822 */ #pgc-822-0-0 , #pgc-822-2-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-822 #panel-822-0-0-0 , #pl-822 #panel-822-1-0-0 , #pl-822 #panel-822-1-0-1 , #pl-822 #panel-822-1-1-0 , #pl-822 #panel-822-2-0-0 , #pl-822 #panel-822-3-0-0 {  } #pg-822-0 , #pg-822-1 , #pg-822-2 , #pl-822 .so-panel , #pl-822 .so-panel:last-child { margin-bottom:0px } #pgc-822-1-0 { width:42.265%;width:calc(42.265% - ( 0.57735027171258 * 30px ) ) } #pgc-822-1-1 { width:57.735%;width:calc(57.735% - ( 0.42264972828742 * 30px ) ) } #pgc-822-3-0 , #pgc-822-3-1 { width:50%;width:calc(50% - ( 0.5 * 30px ) ) } #pg-822-0.panel-no-style, #pg-822-0.panel-has-style > .panel-row-style , #pg-822-1.panel-no-style, #pg-822-1.panel-has-style > .panel-row-style , #pg-822-2.panel-no-style, #pg-822-2.panel-has-style > .panel-row-style , #pg-822-3.panel-no-style, #pg-822-3.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #pg-822-1> .panel-row-style { padding:0px } #panel-822-3-0-0> .panel-widget-style { padding:30px 0px 50px 0px } @media (max-width:780px){ #pg-822-0.panel-no-style, #pg-822-0.panel-has-style > .panel-row-style , #pg-822-1.panel-no-style, #pg-822-1.panel-has-style > .panel-row-style , #pg-822-2.panel-no-style, #pg-822-2.panel-has-style > .panel-row-style , #pg-822-3.panel-no-style, #pg-822-3.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-822-0 .panel-grid-cell , #pg-822-1 .panel-grid-cell , #pg-822-2 .panel-grid-cell , #pg-822-3 .panel-grid-cell { margin-right:0 } #pg-822-0 .panel-grid-cell , #pg-822-1 .panel-grid-cell , #pg-822-2 .panel-grid-cell , #pg-822-3 .panel-grid-cell { width:100% } #pgc-822-1-0 , #pgc-822-3-0 , #pl-822 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px } #pl-822 .panel-grid-cell { padding:0 } #pl-822 .panel-grid .panel-grid-cell-empty { display:none } #panel-822-1-0-0> .panel-widget-style , #panel-822-3-0-0> .panel-widget-style { padding:0px 20px 0px 20px }  } </style>
 <style type="text/css">
 
     /**
@@ -1067,7 +1075,7 @@ body { color:#555555}
 </script>
 </head>
 
-<body class="page-template page-template-page-templates page-template-page_sample-page page-template-page-templatespage_sample-page-php page page-id-1925 wp-custom-logo siteorigin-panels siteorigin-panels-before-js header-fixed menu-inline responsive-menu-slide-right">
+<body class="page-template page-template-page-templates page-template-page_sample-page page-template-page-templatespage_sample-page-php page page-id-822 wp-custom-logo siteorigin-panels siteorigin-panels-before-js header-fixed menu-inline responsive-menu-slide-right">
 <div class="preloader">
     <div class="preloader-inner">
     	    	Loading&hellip;    </div>
@@ -1143,41 +1151,138 @@ body { color:#555555}
 		<main id="main" class="site-main" role="main">
 
 			<div class="entry-content">
-									<div id="pl-1925"  class="panel-layout" ><div id="pg-1925-0"  class="panel-grid panel-has-style" ><div style="padding: 100px 0; " class="panel-row-style panel-row-style-for-1925-0" ><div id="pgc-1925-0-0"  class="panel-grid-cell" ><div id="panel-1925-0-0-0" class="so-panel widget widget_siteorigin-panels-builder panel-first-child panel-last-child" data-index="0" ><div id="doctor_all" class="panel-widget-style panel-widget-style-for-1925-0-0-0" ><div id="pl-w5b84f73ae8f9a"  class="panel-layout" ><div id="pg-w5b84f73ae8f9a-0"  class="panel-grid panel-has-style" ><div style="padding: 100px 0; " class="panel-row-style panel-row-style-for-w5b84f73ae8f9a-0" ><div id="pgc-w5b84f73ae8f9a-0-0"  class="panel-grid-cell" ><div id="panel-w5b84f73ae8f9a-0-0-0" class="so-panel widget widget_siteorigin-panels-builder panel-first-child panel-last-child" data-index="0" ><div id="pl-w5b84f73ae905a"  class="panel-layout" ><div id="pg-w5b84f73ae905a-0"  class="panel-grid panel-has-style" ><div style="padding: 100px 0; " class="panel-row-style panel-row-style-for-w5b84f73ae905a-0" ><div id="pgc-w5b84f73ae905a-0-0"  class="panel-grid-cell" ><div id="panel-w5b84f73ae905a-0-0-0" class="so-panel widget widget_sow-headline panel-first-child panel-last-child" data-index="0" ><div class="enquiry_pagen panel-widget-style panel-widget-style-for-w5b84f73ae905a-0-0-0" ><div class="so-widget-sow-headline so-widget-sow-headline-default-0f5d89ef5f37"><div class="sow-headline-container ">
-	<h1 class='sow-headline'><b>LIVIGRO</b> Register</h1>					<div class="decoration">
+									<div id="pl-822"  class="panel-layout" ><div id="pg-822-0"  class="panel-grid panel-has-style" ><div class="corp_headertitle panel-row-style panel-row-style-for-822-0" style="padding: 100px 0; " ><div id="pgc-822-0-0"  class="panel-grid-cell" ><div id="panel-822-0-0-0" class="so-panel widget widget_sow-headline panel-first-child panel-last-child" data-index="0" ><div class="so-widget-sow-headline so-widget-sow-headline-default-0f5d89ef5f37"><div class="sow-headline-container ">
+	<h1 class='sow-headline'><b>LIVIGRO</b>  CORPORATE</h1>					<div class="decoration">
 						<div class="decoration-inside"></div>
 					</div>
-					</div></div></div></div></div></div></div><div id="pg-w5b84f73ae905a-1"  class="panel-grid panel-has-style" ><div style="padding: 100px 0; " class="panel-row-style panel-row-style-for-w5b84f73ae905a-1" ><div id="pgc-w5b84f73ae905a-1-0"  class="panel-grid-cell" ><div id="panel-w5b84f73ae905a-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="1" ><div class="panel-widget-style panel-widget-style-for-w5b84f73ae905a-1-0-0" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+					<h3 class='sow-sub-headline'>Livigro corporate is specially designed for corporates, institutions or any organisations that care about their employees’ health. we take care of your employees’ like our kith and kin.</h3></div></div></div></div></div></div><div id="pg-822-1"  class="panel-grid panel-has-style" ><div class="model-rows model_rows_corp siteorigin-panels-stretch rocked-stretch panel-row-style panel-row-style-for-822-1" style="padding: 0px 0; " data-stretch-type="full" ><div id="pgc-822-1-0"  class="panel-grid-cell" ><div class="corporate_works panel-cell-style panel-cell-style-for-822-1-0" ><div id="panel-822-1-0-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="1" ><div class="panel-widget-style panel-widget-style-for-822-1-0-0" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
-	<div role="form" class="wpcf7" id="wpcf7-f1917-p1925-o3" lang="en-US" dir="ltr">
-<div class="screen-reader-response"></div>
-@include('notification.messages')
-{!! Form::open(['action' => 'UserController@register','method' => 'POST','class' => 'wpcf7-form','id' => 'doctor','novalidate' => 'novalidate']) !!}
-<div class="doctor">
-<div class="enqury_full">
-<span class="wpcf7-form-control-wrap fname">
-        {{Form::text('name', '',['class'=>'wpcf7-form-control wpcf7-text wpcf7-validates-as-required','placeholder'=>'Name','aria-required'=>'true','aria-invalid'=>'false'])}}
-</span>
-</div>  
-<div class="enqury_full">
-<span class="wpcf7-form-control-wrap fname">
-            {{Form::email('email', '',['class'=>'wpcf7-form-control wpcf7-text wpcf7-validates-as-required','placeholder'=>'Email ID','aria-required'=>'true','aria-invalid'=>'false'])}}
-            </span>
-    </div>
-    <div class="enqury_full">
-    <span class="wpcf7-form-control-wrap fname">
-            {{Form::password('password',['class'=>'wpcf7-form-control wpcf7-text wpcf7-validates-as-required','placeholder'=>'Password','aria-required'=>'true','aria-invalid'=>'false'])}}
-            </span>
-    </div>
-    <div class="enqury_btn">
-    {{Form::submit('Register',['class'=>'wpcf7-form-control wpcf7-submit'])}}
+	<h4 class="corp_title">How it WORKS?</h4>
+<h6>We offer <a href="../personalhealth-2/index.html">health</a> screening or check-ups on your premises at your convenience. we deliver test reports digitally with actionable advice from our doctors with detailed insights.</h6>
 </div>
+</div></div></div><div id="panel-822-1-0-1" class="so-panel widget widget_siteorigin-panels-builder panel-last-child" data-index="2" ><div class="step_steps panel-widget-style panel-widget-style-for-822-1-0-1" ><div id="pl-w5b615f67e8be4"  class="panel-layout" ><div id="pg-w5b615f67e8be4-0"  class="panel-grid panel-has-style" ><div style="padding: 100px 0; " class="panel-row-style panel-row-style-for-w5b615f67e8be4-0" ><div id="pgc-w5b615f67e8be4-0-0"  class="panel-grid-cell" ><div id="panel-w5b615f67e8be4-0-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="0" ><div class="so-widget-sow-editor so-widget-sow-editor-base"><h3 class="widget-title">Step</h3>
+<div class="siteorigin-widget-tinymce textwidget">
+	<p>1</p>
+</div>
+</div></div></div><div id="pgc-w5b615f67e8be4-0-1"  class="panel-grid-cell" ><div id="panel-w5b615f67e8be4-0-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="1" ><div class="so-widget-sow-image so-widget-sow-image-default-bd5cd9da0588">
+
+<div class="sow-image-container">
+	<img src="../wp-content/uploads/2018/06/cor_img1-2.png" width="55" height="55" sizes="(max-width: 55px) 100vw, 55px" title="cor_img1" alt="cor_img1" 		class="so-widget-image"/>
+</div>
+
+</div></div></div><div id="pgc-w5b615f67e8be4-0-2"  class="panel-grid-cell" ><div id="panel-w5b615f67e8be4-0-2-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="2" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<h6>Book at your location</h6>
+<p><img class="alignnone size-full wp-image-944" src="../wp-content/uploads/2018/06/arrow.png" alt="" /></p>
+</div>
+</div></div></div></div></div><div id="pg-w5b615f67e8be4-1"  class="panel-grid panel-has-style" ><div style="padding: 100px 0; " class="panel-row-style panel-row-style-for-w5b615f67e8be4-1" ><div id="pgc-w5b615f67e8be4-1-0"  class="panel-grid-cell" ><div id="panel-w5b615f67e8be4-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="3" ><div class="so-widget-sow-editor so-widget-sow-editor-base"><h3 class="widget-title">Step</h3>
+<div class="siteorigin-widget-tinymce textwidget">
+	<p>2</p>
+</div>
+</div></div></div><div id="pgc-w5b615f67e8be4-1-1"  class="panel-grid-cell" ><div id="panel-w5b615f67e8be4-1-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4" ><div class="so-widget-sow-image so-widget-sow-image-default-bd5cd9da0588">
+
+<div class="sow-image-container">
+	<img src="../wp-content/uploads/2018/06/cor_img2-2.png" width="64" height="52" sizes="(max-width: 64px) 100vw, 64px" title="cor_img2" alt="cor_img2" 		class="so-widget-image"/>
+</div>
+
+</div></div></div><div id="pgc-w5b615f67e8be4-1-2"  class="panel-grid-cell" ><div id="panel-w5b615f67e8be4-1-2-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="5" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<h6>Home sample collection</h6>
+<p><img class="alignnone size-full wp-image-944" src="../wp-content/uploads/2018/06/arrow.png" alt="" /></p>
+</div>
+</div></div></div></div></div><div id="pg-w5b615f67e8be4-2"  class="panel-grid panel-has-style" ><div style="padding: 100px 0; " class="panel-row-style panel-row-style-for-w5b615f67e8be4-2" ><div id="pgc-w5b615f67e8be4-2-0"  class="panel-grid-cell" ><div id="panel-w5b615f67e8be4-2-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="6" ><div class="so-widget-sow-editor so-widget-sow-editor-base"><h3 class="widget-title">Step</h3>
+<div class="siteorigin-widget-tinymce textwidget">
+	<p>3</p>
+</div>
+</div></div></div><div id="pgc-w5b615f67e8be4-2-1"  class="panel-grid-cell" ><div id="panel-w5b615f67e8be4-2-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="7" ><div class="so-widget-sow-image so-widget-sow-image-default-bd5cd9da0588">
+
+<div class="sow-image-container">
+	<img src="../wp-content/uploads/2018/06/cor_img3-2.png" width="55" height="57" sizes="(max-width: 55px) 100vw, 55px" title="cor_img3" alt="cor_img3" 		class="so-widget-image"/>
+</div>
+
+</div></div></div><div id="pgc-w5b615f67e8be4-2-2"  class="panel-grid-cell" ><div id="panel-w5b615f67e8be4-2-2-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="8" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<h6>Reports &amp; Health insights with doctor consultation</h6>
+</div>
+</div></div></div></div></div></div></div></div></div></div><div id="pgc-822-1-1"  class="panel-grid-cell" ><div class="corporate_works panel-cell-style panel-cell-style-for-822-1-1" ><div id="panel-822-1-1-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="3" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<div role="form" class="wpcf7" id="wpcf7-f848-p822-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="https://www.livigro.com/corporate-2/#wpcf7-f848-p822-o1" method="post" class="wpcf7-form" novalidate="novalidate" id="corporate_form">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="848" /><br />
+<input type="hidden" name="_wpcf7_version" value="5.0.3" /><br />
+<input type="hidden" name="_wpcf7_locale" value="en_US" /><br />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f848-p822-o1" /><br />
+<input type="hidden" name="_wpcf7_container_post" value="822" />
+</div>
+<div class="enqury_form corporate_form">
+<div class="enqury_left"><span class="wpcf7-form-control-wrap oname"><input type="text" name="oname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name Of The Organisation" /></span></div>
+<div class="enqury_right"><span class="wpcf7-form-control-wrap pname"><input type="text" name="pname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Contact Person Name" /></span></div>
+<div class="enqury_left"><span class="wpcf7-form-control-wrap phoneno"><input type="text" name="phoneno" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="+91" /></span> <img src="../wp-content/uploads/2018/06/flag.png" class="flag_img"/></div>
+<div class="enqury_right"> <span class="wpcf7-form-control-wrap noemp"><input type="text" name="noemp" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="No Of Employee" /></span> </div>
+<div class="enqury_right"><span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email" /></span> </div>
+<div class="enqury_left"><span class="wpcf7-form-control-wrap city"><select name="city" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="City">City</option><option value="Chennai">Chennai</option><option value="Trichy">Trichy</option><option value="Madurai">Madurai</option><option value="Dindugal">Dindugal</option><option value="Bangalore">Bangalore</option></select></span> </div>
+<div class="enqury_full">
+<div class="wpcf7-form-control-wrap">
+<div data-sitekey="6Lcecl8UAAAAAOa6Bs1nL_seCiSYOoGXh83CXCbw" class="wpcf7-form-control g-recaptcha wpcf7-recaptcha"></div>
+<p><noscript></p>
+<div style="width: 302px; height: 422px;">
+<div style="width: 302px; height: 422px; position: relative;">
+<div style="width: 302px; height: 422px; position: absolute;">
+				<iframe src="https://www.google.com/recaptcha/api/fallback?k=6Lcecl8UAAAAAOa6Bs1nL_seCiSYOoGXh83CXCbw" frameborder="0" scrolling="no" style="width: 302px; height:422px; border-style: none;"><br />
+				</iframe>
+			</div>
+<div style="width: 300px; height: 60px; border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+				<textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;"><br />
+				</textarea>
+			</div>
+</p></div>
+</p></div>
+<p></noscript>
+</div>
+</div>
+<div class="enqury_btn"><input type="submit" value="Book Now" class="wpcf7-form-control wpcf7-submit" /></div>
 </div>
 <div class="wpcf7-response-output wpcf7-display-none"></div>
-{!! Form::close() !!}
+</form>
 </div>
 </div>
-</div></div></div></div></div></div><div id="pg-w5b84f73ae905a-2"  class="panel-grid panel-has-style" ><div style="padding: 100px 0; " class="panel-row-style panel-row-style-for-w5b84f73ae905a-2" ><div id="pgc-w5b84f73ae905a-2-0"  class="panel-grid-cell panel-grid-cell-empty" ></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>							</div><!-- .entry-content -->
+</div></div></div></div></div></div><div id="pg-822-2"  class="panel-grid panel-has-style" ><div class="corp_headertitle panel-row-style panel-row-style-for-822-2" style="padding: 100px 0; " ><div id="pgc-822-2-0"  class="panel-grid-cell" ><div id="panel-822-2-0-0" class="so-panel widget widget_sow-headline panel-first-child panel-last-child" data-index="4" ><div class="so-widget-sow-headline so-widget-sow-headline-default-0f5d89ef5f37"><div class="sow-headline-container ">
+	<h1 class='sow-headline'><b>LIVIGRO</b>  PROMISES</h1>					<div class="decoration">
+						<div class="decoration-inside"></div>
+					</div>
+					</div></div></div></div></div></div><div id="pg-822-3"  class="panel-grid panel-has-style" ><div class="model-rows model_rows_corp1 siteorigin-panels-stretch rocked-stretch panel-row-style panel-row-style-for-822-3" style="padding: 100px 0; " data-stretch-type="full" ><div id="pgc-822-3-0"  class="panel-grid-cell panel-grid-cell-mobile-last" ><div class="how_it_worksnn panel-cell-style panel-cell-style-for-822-3-0" ><div id="panel-822-3-0-0" class="so-panel widget widget_siteorigin-panels-builder panel-first-child panel-last-child" data-index="5" ><div class="panel-widget-style panel-widget-style-for-822-3-0-0" ><div id="pl-w5b35b81e7f985"  class="panel-layout" ><div id="pg-w5b35b81e7f985-0"  class="panel-grid panel-has-style" ><div style="padding: 0px 0; " class="panel-row-style panel-row-style-for-w5b35b81e7f985-0" ><div id="pgc-w5b35b81e7f985-0-0"  class="panel-grid-cell" ><div id="panel-w5b35b81e7f985-0-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="0" ><div class="so-widget-sow-image so-widget-sow-image-default-bd5cd9da0588">
+
+<div class="sow-image-container">
+	<img src="../wp-content/uploads/2018/06/cor_img4-2.png" width="36" height="35" sizes="(max-width: 36px) 100vw, 36px" title="Save Money" alt="Save Money" 		class="so-widget-image"/>
+</div>
+
+</div></div></div><div id="pgc-w5b35b81e7f985-0-1"  class="panel-grid-cell" ><div id="panel-w5b35b81e7f985-0-1-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="1" ><div class="so-widget-sow-editor so-widget-sow-editor-base"><h3 class="widget-title">Save Cost</h3>
+<div class="siteorigin-widget-tinymce textwidget">
+	<h6>We offer you special Livigro packages at a family discount. We offer you the best price so you can avoid unwanted third-party commissions.</h6>
+</div>
+</div></div></div></div></div><div id="pg-w5b35b81e7f985-1"  class="panel-grid panel-has-style" ><div style="padding: 0px 0; " class="panel-row-style panel-row-style-for-w5b35b81e7f985-1" ><div id="pgc-w5b35b81e7f985-1-0"  class="panel-grid-cell" ><div id="panel-w5b35b81e7f985-1-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="2" ><div class="so-widget-sow-image so-widget-sow-image-default-bd5cd9da0588">
+
+<div class="sow-image-container">
+	<img src="../wp-content/uploads/2018/06/cor_img5-2.png" width="34" height="34" sizes="(max-width: 34px) 100vw, 34px" title="clock" alt="clock" 		class="so-widget-image"/>
+</div>
+
+</div></div></div><div id="pgc-w5b35b81e7f985-1-1"  class="panel-grid-cell" ><div id="panel-w5b35b81e7f985-1-1-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="3" ><div class="so-widget-sow-editor so-widget-sow-editor-base"><h3 class="widget-title">Save Time</h3>
+<div class="siteorigin-widget-tinymce textwidget">
+	<h6>Make all your bookings at a single interface. Get health check-up at your premises saving time. Get results online faster than ever.</h6>
+</div>
+</div></div></div></div></div><div id="pg-w5b35b81e7f985-2"  class="panel-grid panel-has-style" ><div style="padding: 0px 0; " class="panel-row-style panel-row-style-for-w5b35b81e7f985-2" ><div id="pgc-w5b35b81e7f985-2-0"  class="panel-grid-cell" ><div id="panel-w5b35b81e7f985-2-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4" ><div class="so-widget-sow-image so-widget-sow-image-default-bd5cd9da0588">
+
+<div class="sow-image-container">
+	<img src="../wp-content/uploads/2018/06/cor_img6-2.png" width="31" height="35" sizes="(max-width: 31px) 100vw, 31px" title="ok icon" alt="ok icon" 		class="so-widget-image"/>
+</div>
+
+</div></div></div><div id="pgc-w5b35b81e7f985-2-1"  class="panel-grid-cell" ><div id="panel-w5b35b81e7f985-2-1-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="5" ><div class="so-widget-sow-editor so-widget-sow-editor-base"><h3 class="widget-title">Provide Transparency</h3>
+<div class="siteorigin-widget-tinymce textwidget">
+	<h6>Get to know and read your test reports with the help of our in-house doctors because it is your right.</h6>
+</div>
+</div></div></div></div></div></div></div></div></div></div><div id="pgc-822-3-1"  class="panel-grid-cell panel-grid-cell-empty" ><div class="how_it_worksnn panel-cell-style panel-cell-style-for-822-3-1" ></div></div></div></div></div>							</div><!-- .entry-content -->
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
@@ -1200,7 +1305,7 @@ body { color:#555555}
 					<aside id="sow-editor-2" class="widget widget_sow-editor"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<div></div>
-<div class="titee"><a href="{{ url('about') }}">About Us</a></div>
+<div class="titee"><a href="../about/index.html">About Us</a></div>
 <div class="titee"><a href="../termsofuse/index.html">Terms Of Use</a></div>
 <div class="titee"><a href="../privacy/index.html">Privacy Policy</a></div>
 <div class="titee"><a href="../refund-policy/index.html">Refund Policy</a></div>
@@ -1704,7 +1809,60 @@ s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
-<!--End of Tawk.to Script (0.3.3)-->
+<!--End of Tawk.to Script (0.3.3)--><script type="text/javascript">
+var recaptchaWidgets = [];
+var recaptchaCallback = function() {
+	var forms = document.getElementsByTagName( 'form' );
+	var pattern = /(^|\s)g-recaptcha(\s|$)/;
+
+	for ( var i = 0; i < forms.length; i++ ) {
+		var divs = forms[ i ].getElementsByTagName( 'div' );
+
+		for ( var j = 0; j < divs.length; j++ ) {
+			var sitekey = divs[ j ].getAttribute( 'data-sitekey' );
+
+			if ( divs[ j ].className && divs[ j ].className.match( pattern ) && sitekey ) {
+				var params = {
+					'sitekey': sitekey,
+					'type': divs[ j ].getAttribute( 'data-type' ),
+					'size': divs[ j ].getAttribute( 'data-size' ),
+					'theme': divs[ j ].getAttribute( 'data-theme' ),
+					'badge': divs[ j ].getAttribute( 'data-badge' ),
+					'tabindex': divs[ j ].getAttribute( 'data-tabindex' )
+				};
+
+				var callback = divs[ j ].getAttribute( 'data-callback' );
+
+				if ( callback && 'function' == typeof window[ callback ] ) {
+					params[ 'callback' ] = window[ callback ];
+				}
+
+				var expired_callback = divs[ j ].getAttribute( 'data-expired-callback' );
+
+				if ( expired_callback && 'function' == typeof window[ expired_callback ] ) {
+					params[ 'expired-callback' ] = window[ expired_callback ];
+				}
+
+				var widget_id = grecaptcha.render( divs[ j ], params );
+				recaptchaWidgets.push( widget_id );
+				break;
+			}
+		}
+	}
+};
+
+document.addEventListener( 'wpcf7submit', function( event ) {
+	switch ( event.detail.status ) {
+		case 'spam':
+		case 'mail_sent':
+		case 'mail_failed':
+			for ( var i = 0; i < recaptchaWidgets.length; i++ ) {
+				grecaptcha.reset( recaptchaWidgets[ i ] );
+			}
+	}
+}, false );
+</script>
+
 <div class="ccw_plugin chatbot" style="bottom:10px; left:10px;">
     <!-- style 9  logo -->
     <div class="ccw_style9 animated no-animation ccw-no-hover-an">
@@ -1734,7 +1892,7 @@ s0.parentNode.insertBefore(s1,s0);
         
 
             </div>
-                                                <ul id="responsive-menu" class=""><li id="responsive-menu-item-9" class="home  menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children"><a class="responsive-menu-item-link">Services<div class="responsive-menu-subarrow responsive-menu-subarrow-active">▲</div></a><ul class='responsive-menu-submenu responsive-menu-submenu-depth-1 responsive-menu-submenu-open'><li id="responsive-menu-item-974" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="../personalhealth-2/index.html" class="responsive-menu-item-link">Personal Health</a></li><li id="responsive-menu-item-882" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="../diagnostics/index.html" class="responsive-menu-item-link">Diagnostics</a></li><li id="responsive-menu-item-884" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="../doctor-4/index.html" class="responsive-menu-item-link">Doctors</a></li><li id="responsive-menu-item-883" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="{{ url('corporate') }}" class="responsive-menu-item-link">Corporate</a></li></ul></li><li id="responsive-menu-item-12" class="Dolor  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="{{ url('about') }}" class="responsive-menu-item-link">About Us</a></li><li id="responsive-menu-item-14" class="Page 1b  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="../termsofuse/index.html" class="responsive-menu-item-link">Terms of Use</a></li><li id="responsive-menu-item-15" class="Page 2a  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="../privacy/index.html" class="responsive-menu-item-link">Privacy Policy</a></li><li id="responsive-menu-item-16" class="Page 2b  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="../enquiry/index.html" class="responsive-menu-item-link">Contact Us</a></li><li id="responsive-menu-item-987" class=" res-visible menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="#" class="responsive-menu-item-link">VIEW REPORTS</a></li></ul>                                                                    <div id="responsive-menu-additional-content"><div class="col-sm-12">
+                                                <ul id="responsive-menu" class=""><li id="responsive-menu-item-9" class="home  menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children responsive-menu-item responsive-menu-item-current-ancestor responsive-menu-item-current-parent responsive-menu-item-has-children"><a class="responsive-menu-item-link">Services<div class="responsive-menu-subarrow responsive-menu-subarrow-active">▲</div></a><ul class='responsive-menu-submenu responsive-menu-submenu-depth-1 responsive-menu-submenu-open'><li id="responsive-menu-item-974" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="../personalhealth-2/index.html" class="responsive-menu-item-link">Personal Health</a></li><li id="responsive-menu-item-882" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="../diagnostics/index.html" class="responsive-menu-item-link">Diagnostics</a></li><li id="responsive-menu-item-884" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="../doctor-4/index.html" class="responsive-menu-item-link">Doctors</a></li><li id="responsive-menu-item-883" class=" menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-822 current_page_item responsive-menu-item responsive-menu-current-item"><a href="{{ url('corporate') }}" class="responsive-menu-item-link">Corporate</a></li></ul></li><li id="responsive-menu-item-12" class="Dolor  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="{{ url('about') }}" class="responsive-menu-item-link">About Us</a></li><li id="responsive-menu-item-14" class="Page 1b  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="../termsofuse/index.html" class="responsive-menu-item-link">Terms of Use</a></li><li id="responsive-menu-item-15" class="Page 2a  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="../privacy/index.html" class="responsive-menu-item-link">Privacy Policy</a></li><li id="responsive-menu-item-16" class="Page 2b  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="../enquiry/index.html" class="responsive-menu-item-link">Contact Us</a></li><li id="responsive-menu-item-987" class=" res-visible menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="#" class="responsive-menu-item-link">VIEW REPORTS</a></li></ul>                                                                    <div id="responsive-menu-additional-content"><div class="col-sm-12">
 <div class="col-sm-6">
 <div class="btn btn-primary"><a href="../enquiry/index.html">Enquiry</a></div>
 </div>
@@ -1754,14 +1912,20 @@ s0.parentNode.insertBefore(s1,s0);
 </div></div>                        </div>
 </div>
                 <style type="text/css" media="all"
-                       id="siteorigin-panels-layouts-footer">
-                       #pgc-w5b84f73ae905a-0-0 , #pgc-w5b84f73ae905a-1-0 , #pgc-w5b84f73ae905a-2-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-w5b84f73ae905a #panel-w5b84f73ae905a-0-0-0 , #pl-w5b84f73ae905a #panel-w5b84f73ae905a-1-0-0 {  } #pg-w5b84f73ae905a-0 , #pg-w5b84f73ae905a-1 , #pl-w5b84f73ae905a .so-panel , #pl-w5b84f73ae905a .so-panel:last-child { margin-bottom:0px } #pg-w5b84f73ae905a-0.panel-no-style, #pg-w5b84f73ae905a-0.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-1.panel-no-style, #pg-w5b84f73ae905a-1.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-2.panel-no-style, #pg-w5b84f73ae905a-2.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #pgc-w5b84f73ae905a-1-0 { align-self:auto } #panel-w5b84f73ae905a-1-0-0> .panel-widget-style { padding:40px 0px 0px 0px } @media (max-width:780px){ #pg-w5b84f73ae905a-0.panel-no-style, #pg-w5b84f73ae905a-0.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-1.panel-no-style, #pg-w5b84f73ae905a-1.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-2.panel-no-style, #pg-w5b84f73ae905a-2.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-w5b84f73ae905a-0 .panel-grid-cell , #pg-w5b84f73ae905a-1 .panel-grid-cell , #pg-w5b84f73ae905a-2 .panel-grid-cell { margin-right:0 } #pg-w5b84f73ae905a-0 .panel-grid-cell , #pg-w5b84f73ae905a-1 .panel-grid-cell , #pg-w5b84f73ae905a-2 .panel-grid-cell { width:100% } #pl-w5b84f73ae905a .panel-grid-cell { padding:0 } #pl-w5b84f73ae905a .panel-grid .panel-grid-cell-empty { display:none } #pl-w5b84f73ae905a .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } /* Layout w5b84f73ae8f9a */ #pgc-w5b84f73ae8f9a-0-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-w5b84f73ae8f9a #panel-w5b84f73ae8f9a-0-0-0 {  } #pl-w5b84f73ae8f9a .so-panel , #pl-w5b84f73ae8f9a .so-panel:last-child { margin-bottom:0px } #pg-w5b84f73ae8f9a-0.panel-no-style, #pg-w5b84f73ae8f9a-0.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } @media (max-width:780px){ #pg-w5b84f73ae8f9a-0.panel-no-style, #pg-w5b84f73ae8f9a-0.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-w5b84f73ae8f9a-0 .panel-grid-cell { margin-right:0 } #pg-w5b84f73ae8f9a-0 .panel-grid-cell { width:100% } #pl-w5b84f73ae8f9a .panel-grid-cell { padding:0 } #pl-w5b84f73ae8f9a .panel-grid .panel-grid-cell-empty { display:none } #pl-w5b84f73ae8f9a .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style><script type='text/javascript' src='../wp-content/plugins/blog-designer/js/designer5010.js?ver=4.9.8'></script>
+                       id="siteorigin-panels-layouts-footer">/* Layout w5b615f67e8be4 */ #pgc-w5b615f67e8be4-0-0 , #pgc-w5b615f67e8be4-1-0 , #pgc-w5b615f67e8be4-2-0 { width:14.2857%;width:calc(14.2857% - ( 0.85714285714286 * 30px ) ) } #pl-w5b615f67e8be4 #panel-w5b615f67e8be4-0-0-0 , #pl-w5b615f67e8be4 #panel-w5b615f67e8be4-0-1-0 , #pl-w5b615f67e8be4 #panel-w5b615f67e8be4-0-2-0 , #pl-w5b615f67e8be4 #panel-w5b615f67e8be4-1-0-0 , #pl-w5b615f67e8be4 #panel-w5b615f67e8be4-1-1-0 , #pl-w5b615f67e8be4 #panel-w5b615f67e8be4-1-2-0 , #pl-w5b615f67e8be4 #panel-w5b615f67e8be4-2-0-0 , #pl-w5b615f67e8be4 #panel-w5b615f67e8be4-2-1-0 , #pl-w5b615f67e8be4 #panel-w5b615f67e8be4-2-2-0 {  } #pgc-w5b615f67e8be4-0-1 , #pgc-w5b615f67e8be4-1-1 , #pgc-w5b615f67e8be4-2-1 { width:28.5714%;width:calc(28.5714% - ( 0.71428571428571 * 30px ) ) } #pgc-w5b615f67e8be4-0-2 , #pgc-w5b615f67e8be4-1-2 , #pgc-w5b615f67e8be4-2-2 { width:57.1429%;width:calc(57.1429% - ( 0.42857142857143 * 30px ) ) } #pg-w5b615f67e8be4-0 , #pg-w5b615f67e8be4-1 , #pl-w5b615f67e8be4 .so-panel , #pl-w5b615f67e8be4 .so-panel:last-child { margin-bottom:0px } #pg-w5b615f67e8be4-0.panel-no-style, #pg-w5b615f67e8be4-0.panel-has-style > .panel-row-style , #pg-w5b615f67e8be4-1.panel-no-style, #pg-w5b615f67e8be4-1.panel-has-style > .panel-row-style , #pg-w5b615f67e8be4-2.panel-no-style, #pg-w5b615f67e8be4-2.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } @media (max-width:780px){ #pg-w5b615f67e8be4-0.panel-no-style, #pg-w5b615f67e8be4-0.panel-has-style > .panel-row-style , #pg-w5b615f67e8be4-1.panel-no-style, #pg-w5b615f67e8be4-1.panel-has-style > .panel-row-style , #pg-w5b615f67e8be4-2.panel-no-style, #pg-w5b615f67e8be4-2.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-w5b615f67e8be4-0 .panel-grid-cell , #pg-w5b615f67e8be4-1 .panel-grid-cell , #pg-w5b615f67e8be4-2 .panel-grid-cell { margin-right:0 } #pg-w5b615f67e8be4-0 .panel-grid-cell , #pg-w5b615f67e8be4-1 .panel-grid-cell , #pg-w5b615f67e8be4-2 .panel-grid-cell { width:100% } #pgc-w5b615f67e8be4-0-0 , #pgc-w5b615f67e8be4-0-1 , #pgc-w5b615f67e8be4-1-0 , #pgc-w5b615f67e8be4-1-1 , #pgc-w5b615f67e8be4-2-0 , #pgc-w5b615f67e8be4-2-1 , #pl-w5b615f67e8be4 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px } #pl-w5b615f67e8be4 .panel-grid-cell { padding:0 } #pl-w5b615f67e8be4 .panel-grid .panel-grid-cell-empty { display:none }  } /* Layout w5b35b81e7f985 */ #pgc-w5b35b81e7f985-0-0 , #pgc-w5b35b81e7f985-1-0 , #pgc-w5b35b81e7f985-2-0 { width:15%;width:calc(15% - ( 0.85 * 30px ) ) } #pl-w5b35b81e7f985 #panel-w5b35b81e7f985-0-0-0 , #pl-w5b35b81e7f985 #panel-w5b35b81e7f985-0-1-0 , #pl-w5b35b81e7f985 #panel-w5b35b81e7f985-1-0-0 , #pl-w5b35b81e7f985 #panel-w5b35b81e7f985-1-1-0 , #pl-w5b35b81e7f985 #panel-w5b35b81e7f985-2-0-0 , #pl-w5b35b81e7f985 #panel-w5b35b81e7f985-2-1-0 {  } #pgc-w5b35b81e7f985-0-1 , #pgc-w5b35b81e7f985-1-1 , #pgc-w5b35b81e7f985-2-1 { width:85%;width:calc(85% - ( 0.15 * 30px ) ) } #pg-w5b35b81e7f985-0 , #pg-w5b35b81e7f985-1 , #pl-w5b35b81e7f985 .so-panel , #pl-w5b35b81e7f985 .so-panel:last-child { margin-bottom:0px } #pg-w5b35b81e7f985-0> .panel-row-style , #pg-w5b35b81e7f985-1> .panel-row-style , #pg-w5b35b81e7f985-2> .panel-row-style { padding:0px } #pg-w5b35b81e7f985-0.panel-no-style, #pg-w5b35b81e7f985-0.panel-has-style > .panel-row-style , #pg-w5b35b81e7f985-1.panel-no-style, #pg-w5b35b81e7f985-1.panel-has-style > .panel-row-style , #pg-w5b35b81e7f985-2.panel-no-style, #pg-w5b35b81e7f985-2.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #pgc-w5b35b81e7f985-0-1 , #pgc-w5b35b81e7f985-1-1 , #pgc-w5b35b81e7f985-2-1 { align-self:auto } @media (max-width:780px){ #pg-w5b35b81e7f985-0.panel-no-style, #pg-w5b35b81e7f985-0.panel-has-style > .panel-row-style , #pg-w5b35b81e7f985-1.panel-no-style, #pg-w5b35b81e7f985-1.panel-has-style > .panel-row-style , #pg-w5b35b81e7f985-2.panel-no-style, #pg-w5b35b81e7f985-2.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-w5b35b81e7f985-0 .panel-grid-cell , #pg-w5b35b81e7f985-1 .panel-grid-cell , #pg-w5b35b81e7f985-2 .panel-grid-cell { margin-right:0 } #pg-w5b35b81e7f985-0 .panel-grid-cell , #pg-w5b35b81e7f985-1 .panel-grid-cell , #pg-w5b35b81e7f985-2 .panel-grid-cell { width:100% } #pgc-w5b35b81e7f985-0-0 , #pgc-w5b35b81e7f985-1-0 , #pgc-w5b35b81e7f985-2-0 , #pl-w5b35b81e7f985 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px } #pl-w5b35b81e7f985 .panel-grid-cell { padding:0 } #pl-w5b35b81e7f985 .panel-grid .panel-grid-cell-empty { display:none }  } </style><script type='text/javascript' src='../wp-content/plugins/blog-designer/js/designer5010.js?ver=4.9.8'></script>
 
 <script type='text/javascript' src='../wp-content/plugins/click-to-chat-for-whatsapp/assets/js/appf24c.js?ver=1.6'></script>
 <script type='text/javascript' src='../wp-content/themes/rocked/js/skip-link-focus-fix08e0.js?ver=20130115'></script>
 <script type='text/javascript' src='../wp-content/themes/rocked/js/scripts5010.js?ver=4.9.8'></script>
 <script type='text/javascript' src='../wp-content/themes/rocked/js/main.min5010.js?ver=4.9.8'></script>
 <script type='text/javascript' src='../wp-includes/js/wp-embed.min5010.js?ver=4.9.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var panelsStyles = {"fullContainer":"body"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/siteorigin-panels/js/styling-272.mineed8.js?ver=2.7.2'></script>
+<script type='text/javascript' src='../../www.google.com/recaptcha/apiae20.js?onload=recaptchaCallback&amp;render=explicit&amp;ver=2.0'></script>
 <script type="text/javascript">document.body.className = document.body.className.replace("siteorigin-panels-before-js","");</script>      <script>
 
             (function () {
@@ -1818,5 +1982,4 @@ s0.parentNode.insertBefore(s1,s0);
                 }());
         </script>        
 </body>
-
 </html>

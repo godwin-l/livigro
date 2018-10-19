@@ -50,4 +50,11 @@ public function registerView(){
         return view('user.login')->with('success','Registered successfully')->with('error','');
         }
     }
+    public function about(){
+        return view('about');
+    }
+
+    public function corporate(){
+        return view('corporate');
+    }
 }

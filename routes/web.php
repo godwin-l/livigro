@@ -23,6 +23,10 @@ Route::get('/list', 'LabController@labList');
 
 Route::get('/book/{id}', 'LabController@bookLab');
 
+Route::get('/about', 'UserController@about');
+
+Route::get('/corporate', 'UserController@corporate');
+
 Route::get('/view/{id}', 'LabController@viewLab');
 
 Route::post('/login', 'UserController@login');
@@ -30,3 +34,4 @@ Route::post('/login', 'UserController@login');
 Route::post('/register', 'UserController@register');
 
 Route::post('/search', 'LabController@searchLab');
+

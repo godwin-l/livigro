@@ -1,25 +1,27 @@
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="../xmlrpc.php">
 
-<title>Register - Livigro</title>
+<title>About Us</title>
 
+
+<meta name="description" content="Livigro Team, We as a team are passionate about revolutionizing the healthcare industry where patients have the upper hand in making their health decisions."/>
 <link rel="canonical" href="index.html" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Essential Health Checkup - Livigro" />
-<meta property="og:description" content="LIVIGRO CONFIRM BOOKING" />
+<meta property="og:title" content="About Us" />
+<meta property="og:description" content="Livigro Team, We as a team are passionate about revolutionizing the healthcare industry where patients have the upper hand in making their health decisions." />
 <meta property="og:url" content="index.html" />
 <meta property="og:site_name" content="Livigro" />
 <meta property="article:publisher" content="https://facebook.com/livigro" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="LIVIGRO CONFIRM BOOKING" />
-<meta name="twitter:title" content="Essential Health Checkup - Livigro" />
+<meta name="twitter:description" content="Livigro Team, We as a team are passionate about revolutionizing the healthcare industry where patients have the upper hand in making their health decisions." />
+<meta name="twitter:title" content="About Us" />
 <script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.livigro.com\/","sameAs":["https:\/\/facebook.com\/livigro","index.html\/\/instagram.com\/livigro","https:\/\/www.linkedin.com\/company\/belongcare\/"],"@id":"https:\/\/www.livigro.com\/#organization","name":"Belongcare Meditech PVT.LTD","logo":"https:\/\/www.livigro.com\/wp-content\/uploads\/2018\/06\/Livigro-Logo.jpg"}</script>
 <!-- / Yoast SEO plugin. -->
 
@@ -58,7 +60,9 @@ img.emoji {
 <link rel='stylesheet' id='siteorigin-panels-front-css'  href='../wp-content/plugins/siteorigin-panels/css/front-flex.mineed8.css?ver=2.7.2' type='text/css' media='all' />
 <link rel='stylesheet' id='sow-button-base-css'  href='../wp-content/plugins/so-widgets-bundle/widgets/button/css/style4d85.css?ver=1.12.0' type='text/css' media='all' />
 <link rel='stylesheet' id='sow-button-atom-04647aa9f8bb-css'  href='../wp-content/uploads/siteorigin-widgets/sow-button-atom-04647aa9f8bb5010.css?ver=4.9.8' type='text/css' media='all' />
-<link rel='stylesheet' id='sow-headline-default-0f5d89ef5f37-css'  href='../wp-content/uploads/siteorigin-widgets/sow-headline-default-0f5d89ef5f375010.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-headline-default-110b5c4135b5-css'  href='../wp-content/uploads/siteorigin-widgets/sow-headline-default-110b5c4135b55010.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-image-default-bd5cd9da0588-css'  href='../wp-content/uploads/siteorigin-widgets/sow-image-default-bd5cd9da05885010.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-image-default-9e7b621efa2e-css'  href='../wp-content/uploads/siteorigin-widgets/sow-image-default-9e7b621efa2e5010.css?ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='parent-style-css'  href='../wp-content/themes/rocked/style5010.css?ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='child-style-css'  href='../wp-content/themes/livigro/style5010.css?ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='rocked-style-css'  href='../wp-content/themes/livigro/style5010.css?ver=4.9.8' type='text/css' media='all' />
@@ -96,18 +100,21 @@ body { color:#555555}
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.9.8" />
-<link rel='shortlink' href='../index46b2.html?p=1925' />
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed54a7.json?url=https%3A%2F%2Fwww.livigro.com%2Fessential-health-p%2F" />
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedd589?url=https%3A%2F%2Fwww.livigro.com%2Fessential-health-p%2F&amp;format=xml" />
-
+<link rel='shortlink' href='../index461a.html?p=854' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed4e39.json?url=https%3A%2F%2Fwww.livigro.com%2Fabout%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed924a?url=https%3A%2F%2Fwww.livigro.com%2Fabout%2F&amp;format=xml" />
+<!--[if lt IE 9]>
+<script src="https://www.livigro.com/wp-content/themes/rocked/js/html5shiv.js"></script>
+<![endif]-->
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 			<style type="text/css">
 		.header-image {
+			background-image: url();
 			display: block;
 		}
 	</style>
 	                <style type="text/css" media="all"
-                       id="siteorigin-panels-layouts-head">/* Layout 1925 */ #pgc-1925-0-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-1925 #panel-1925-0-0-0 {  } #pl-1925 .so-panel , #pl-1925 .so-panel:last-child { margin-bottom:0px } #pg-1925-0.panel-no-style, #pg-1925-0.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } @media (max-width:780px){ #pg-1925-0.panel-no-style, #pg-1925-0.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-1925-0 .panel-grid-cell { margin-right:0 } #pg-1925-0 .panel-grid-cell { width:100% } #pl-1925 .panel-grid-cell { padding:0 } #pl-1925 .panel-grid .panel-grid-cell-empty { display:none } #pl-1925 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } /* Layout w5b84f73ae905a */ #pgc-w5b84f73ae905a-0-0 , #pgc-w5b84f73ae905a-1-0 , #pgc-w5b84f73ae905a-2-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-w5b84f73ae905a #panel-w5b84f73ae905a-0-0-0 , #pl-w5b84f73ae905a #panel-w5b84f73ae905a-1-0-0 {  } #pg-w5b84f73ae905a-0 , #pg-w5b84f73ae905a-1 , #pl-w5b84f73ae905a .so-panel , #pl-w5b84f73ae905a .so-panel:last-child { margin-bottom:0px } #pg-w5b84f73ae905a-0.panel-no-style, #pg-w5b84f73ae905a-0.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-1.panel-no-style, #pg-w5b84f73ae905a-1.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-2.panel-no-style, #pg-w5b84f73ae905a-2.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #pgc-w5b84f73ae905a-1-0 { align-self:auto } #panel-w5b84f73ae905a-1-0-0> .panel-widget-style { padding:40px 0px 0px 0px } @media (max-width:780px){ #pg-w5b84f73ae905a-0.panel-no-style, #pg-w5b84f73ae905a-0.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-1.panel-no-style, #pg-w5b84f73ae905a-1.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-2.panel-no-style, #pg-w5b84f73ae905a-2.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-w5b84f73ae905a-0 .panel-grid-cell , #pg-w5b84f73ae905a-1 .panel-grid-cell , #pg-w5b84f73ae905a-2 .panel-grid-cell { margin-right:0 } #pg-w5b84f73ae905a-0 .panel-grid-cell , #pg-w5b84f73ae905a-1 .panel-grid-cell , #pg-w5b84f73ae905a-2 .panel-grid-cell { width:100% } #pl-w5b84f73ae905a .panel-grid-cell { padding:0 } #pl-w5b84f73ae905a .panel-grid .panel-grid-cell-empty { display:none } #pl-w5b84f73ae905a .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } /* Layout w5b84f73ae8f9a */ #pgc-w5b84f73ae8f9a-0-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-w5b84f73ae8f9a #panel-w5b84f73ae8f9a-0-0-0 {  } #pl-w5b84f73ae8f9a .so-panel , #pl-w5b84f73ae8f9a .so-panel:last-child { margin-bottom:0px } #pg-w5b84f73ae8f9a-0.panel-no-style, #pg-w5b84f73ae8f9a-0.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } @media (max-width:780px){ #pg-w5b84f73ae8f9a-0.panel-no-style, #pg-w5b84f73ae8f9a-0.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-w5b84f73ae8f9a-0 .panel-grid-cell { margin-right:0 } #pg-w5b84f73ae8f9a-0 .panel-grid-cell { width:100% } #pl-w5b84f73ae8f9a .panel-grid-cell { padding:0 } #pl-w5b84f73ae8f9a .panel-grid .panel-grid-cell-empty { display:none } #pl-w5b84f73ae8f9a .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style>
+                       id="siteorigin-panels-layouts-head">/* Layout 854 */ #pgc-854-0-0 , #pgc-854-0-1 { width:50%;width:calc(50% - ( 0.5 * 30px ) ) } #pl-854 #panel-854-0-0-0 , #pl-854 #panel-854-1-0-0 , #pl-854 #panel-854-2-0-0 , #pl-854 #panel-854-3-1-0 , #pl-854 #panel-854-3-2-0 , #pl-854 #panel-854-3-3-0 , #pl-854 #panel-854-3-4-0 {  } #pg-854-0 , #pg-854-1 , #pg-854-2 , #pl-854 .so-panel , #pl-854 .so-panel:last-child { margin-bottom:0px } #pgc-854-1-0 , #pgc-854-2-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pgc-854-3-0 , #pgc-854-3-1 , #pgc-854-3-2 , #pgc-854-3-3 , #pgc-854-3-4 , #pgc-854-3-5 { width:16.6667%;width:calc(16.6667% - ( 0.83333333333333 * 30px ) ) } #pg-854-0.panel-no-style, #pg-854-0.panel-has-style > .panel-row-style { -webkit-align-items:center;align-items:center } #pgc-854-0-1 , #pgc-854-3-1 { align-self:auto } #pg-854-1> .panel-row-style { padding:0px } #pg-854-1.panel-no-style, #pg-854-1.panel-has-style > .panel-row-style , #pg-854-2.panel-no-style, #pg-854-2.panel-has-style > .panel-row-style , #pg-854-3.panel-no-style, #pg-854-3.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #panel-854-1-0-0> .panel-widget-style { padding:50px 0px 0px 0px } @media (max-width:780px){ #pg-854-0.panel-no-style, #pg-854-0.panel-has-style > .panel-row-style , #pg-854-1.panel-no-style, #pg-854-1.panel-has-style > .panel-row-style , #pg-854-2.panel-no-style, #pg-854-2.panel-has-style > .panel-row-style , #pg-854-3.panel-no-style, #pg-854-3.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-854-0 .panel-grid-cell , #pg-854-1 .panel-grid-cell , #pg-854-2 .panel-grid-cell , #pg-854-3 .panel-grid-cell { margin-right:0 } #pg-854-0 .panel-grid-cell , #pg-854-1 .panel-grid-cell , #pg-854-2 .panel-grid-cell , #pg-854-3 .panel-grid-cell { width:100% } #pgc-854-0-0 , #pgc-854-3-0 , #pgc-854-3-1 , #pgc-854-3-2 , #pgc-854-3-3 , #pgc-854-3-4 , #pl-854 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px } #pl-854 .panel-grid-cell { padding:0 } #pl-854 .panel-grid .panel-grid-cell-empty { display:none }  } </style>
 <style type="text/css">
 
     /**
@@ -1067,7 +1074,7 @@ body { color:#555555}
 </script>
 </head>
 
-<body class="page-template page-template-page-templates page-template-page_sample-page page-template-page-templatespage_sample-page-php page page-id-1925 wp-custom-logo siteorigin-panels siteorigin-panels-before-js header-fixed menu-inline responsive-menu-slide-right">
+<body class="page-template page-template-page-templates page-template-page_sample-page page-template-page-templatespage_sample-page-php page page-id-854 wp-custom-logo siteorigin-panels siteorigin-panels-before-js header-fixed menu-inline responsive-menu-slide-right">
 <div class="preloader">
     <div class="preloader-inner">
     	    	Loading&hellip;    </div>
@@ -1143,41 +1150,241 @@ body { color:#555555}
 		<main id="main" class="site-main" role="main">
 
 			<div class="entry-content">
-									<div id="pl-1925"  class="panel-layout" ><div id="pg-1925-0"  class="panel-grid panel-has-style" ><div style="padding: 100px 0; " class="panel-row-style panel-row-style-for-1925-0" ><div id="pgc-1925-0-0"  class="panel-grid-cell" ><div id="panel-1925-0-0-0" class="so-panel widget widget_siteorigin-panels-builder panel-first-child panel-last-child" data-index="0" ><div id="doctor_all" class="panel-widget-style panel-widget-style-for-1925-0-0-0" ><div id="pl-w5b84f73ae8f9a"  class="panel-layout" ><div id="pg-w5b84f73ae8f9a-0"  class="panel-grid panel-has-style" ><div style="padding: 100px 0; " class="panel-row-style panel-row-style-for-w5b84f73ae8f9a-0" ><div id="pgc-w5b84f73ae8f9a-0-0"  class="panel-grid-cell" ><div id="panel-w5b84f73ae8f9a-0-0-0" class="so-panel widget widget_siteorigin-panels-builder panel-first-child panel-last-child" data-index="0" ><div id="pl-w5b84f73ae905a"  class="panel-layout" ><div id="pg-w5b84f73ae905a-0"  class="panel-grid panel-has-style" ><div style="padding: 100px 0; " class="panel-row-style panel-row-style-for-w5b84f73ae905a-0" ><div id="pgc-w5b84f73ae905a-0-0"  class="panel-grid-cell" ><div id="panel-w5b84f73ae905a-0-0-0" class="so-panel widget widget_sow-headline panel-first-child panel-last-child" data-index="0" ><div class="enquiry_pagen panel-widget-style panel-widget-style-for-w5b84f73ae905a-0-0-0" ><div class="so-widget-sow-headline so-widget-sow-headline-default-0f5d89ef5f37"><div class="sow-headline-container ">
-	<h1 class='sow-headline'><b>LIVIGRO</b> Register</h1>					<div class="decoration">
+									<div id="pl-854"  class="panel-layout" ><div id="pg-854-0"  class="panel-grid panel-has-style" ><div class="siteorigin-panels-stretch parallax rocked-stretch panel-row-style panel-row-style-for-854-0" style="background-image: url(../wp-content/uploads/2018/06/ourp_banner-2.png);padding: 100px 0; " data-stretch-type="full-stretched" data-hasbg="hasbg" ><div id="pgc-854-0-0"  class="panel-grid-cell panel-grid-cell-mobile-last" ><div class="about_top_banner panel-cell-style panel-cell-style-for-854-0-0" ><div id="panel-854-0-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="0" ><div class="so-widget-sow-editor so-widget-sow-editor-base"><h3 class="widget-title">ABOUT US</h3>
+<div class="siteorigin-widget-tinymce textwidget">
+	<h6>We as a team are passionate about revolutionizing the healthcare industry where patients have the upper hand in making their health decisions. we at <a href="../index.html">Livigro</a> connects patients and healthcare providers on a technological platform where all communications and digital therapeutics takes priority which in turn saves cost, time, and energy.</h6>
+</div>
+</div></div></div></div><div id="pgc-854-0-1"  class="panel-grid-cell panel-grid-cell-empty" ><div class="about_top_banner panel-cell-style panel-cell-style-for-854-0-1" ></div></div></div></div><div id="pg-854-1"  class="panel-grid panel-has-style" ><div style="padding: 0px 0; " class="panel-row-style panel-row-style-for-854-1" ><div id="pgc-854-1-0"  class="panel-grid-cell" ><div id="panel-854-1-0-0" class="so-panel widget widget_sow-headline panel-first-child panel-last-child" data-index="1" ><div class="our_people_title panel-widget-style panel-widget-style-for-854-1-0-0" ><div class="so-widget-sow-headline so-widget-sow-headline-default-110b5c4135b5"><div class="sow-headline-container ">
+	<h1 class='sow-headline'>OUR <b> PEOPLE</b></h1>					<div class="decoration">
 						<div class="decoration-inside"></div>
 					</div>
-					</div></div></div></div></div></div></div><div id="pg-w5b84f73ae905a-1"  class="panel-grid panel-has-style" ><div style="padding: 100px 0; " class="panel-row-style panel-row-style-for-w5b84f73ae905a-1" ><div id="pgc-w5b84f73ae905a-1-0"  class="panel-grid-cell" ><div id="panel-w5b84f73ae905a-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="1" ><div class="panel-widget-style panel-widget-style-for-w5b84f73ae905a-1-0-0" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
-<div class="siteorigin-widget-tinymce textwidget">
-	<div role="form" class="wpcf7" id="wpcf7-f1917-p1925-o3" lang="en-US" dir="ltr">
-<div class="screen-reader-response"></div>
-@include('notification.messages')
-{!! Form::open(['action' => 'UserController@register','method' => 'POST','class' => 'wpcf7-form','id' => 'doctor','novalidate' => 'novalidate']) !!}
-<div class="doctor">
-<div class="enqury_full">
-<span class="wpcf7-form-control-wrap fname">
-        {{Form::text('name', '',['class'=>'wpcf7-form-control wpcf7-text wpcf7-validates-as-required','placeholder'=>'Name','aria-required'=>'true','aria-invalid'=>'false'])}}
-</span>
-</div>  
-<div class="enqury_full">
-<span class="wpcf7-form-control-wrap fname">
-            {{Form::email('email', '',['class'=>'wpcf7-form-control wpcf7-text wpcf7-validates-as-required','placeholder'=>'Email ID','aria-required'=>'true','aria-invalid'=>'false'])}}
-            </span>
-    </div>
-    <div class="enqury_full">
-    <span class="wpcf7-form-control-wrap fname">
-            {{Form::password('password',['class'=>'wpcf7-form-control wpcf7-text wpcf7-validates-as-required','placeholder'=>'Password','aria-required'=>'true','aria-invalid'=>'false'])}}
-            </span>
-    </div>
-    <div class="enqury_btn">
-    {{Form::submit('Register',['class'=>'wpcf7-form-control wpcf7-submit'])}}
-</div>
-</div>
-<div class="wpcf7-response-output wpcf7-display-none"></div>
-{!! Form::close() !!}
-</div>
-</div>
-</div></div></div></div></div></div><div id="pg-w5b84f73ae905a-2"  class="panel-grid panel-has-style" ><div style="padding: 100px 0; " class="panel-row-style panel-row-style-for-w5b84f73ae905a-2" ><div id="pgc-w5b84f73ae905a-2-0"  class="panel-grid-cell panel-grid-cell-empty" ></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>							</div><!-- .entry-content -->
+					<h2 class='sow-sub-headline'>Our team is a cocktail of medical professionals, engineers, and business experts. we are thriving to make health care available, affordable, and transparent to every nook and corner.</h2></div></div></div></div></div></div></div><div id="pg-854-2"  class="panel-grid panel-has-style" ><div style="padding: 100px 0; " class="panel-row-style panel-row-style-for-854-2" ><div id="pgc-854-2-0"  class="panel-grid-cell" ><div id="panel-854-2-0-0" class="so-panel widget widget_rocked_employees rocked_employees_widget panel-first-child panel-last-child" data-index="2" >
+		
+		<div class="employees-area">
+											<div class="roll-team">
+										<div class="photo">
+						<div class="overlay">
+							<div class="content">
+								<p class="text"></p>
+								<ul class="socials">
+																																			</ul>
+							</div>
+						</div>
+						<img width="410" height="410" src="../wp-content/uploads/2018/07/Alban-Michael_CEO-410x410.jpg" class="attachment-rocked-medium-thumb size-rocked-medium-thumb wp-post-image" alt="Alban Michael-CEO" srcset="https://www.livigro.com/wp-content/uploads/2018/07/Alban-Michael_CEO.jpeg 410w, https://www.livigro.com/wp-content/uploads/2018/07/Alban-Michael_CEO-150x150.jpeg 150w, https://www.livigro.com/wp-content/uploads/2018/07/Alban-Michael_CEO-300x300.jpeg 300w, https://www.livigro.com/wp-content/uploads/2018/07/Alban-Michael_CEO-100x100.jpeg 100w, https://www.livigro.com/wp-content/uploads/2018/07/Alban-Michael_CEO-275x275.jpeg 275w" sizes="(max-width: 410px) 100vw, 410px" />					</div>
+										<div class="info">
+				        				        	<h3>Dr. J. Alban Michael</h3>
+				        						<span>Founder &amp; CEO</span>
+					</div>
+				</div>	
+											<div class="roll-team">
+										<div class="photo">
+						<div class="overlay">
+							<div class="content">
+								<p class="text"></p>
+								<ul class="socials">
+																																			</ul>
+							</div>
+						</div>
+						<img width="410" height="410" src="../wp-content/uploads/2018/06/naveen-410x410.jpg" class="attachment-rocked-medium-thumb size-rocked-medium-thumb wp-post-image" alt="Naveen Vijayakumar" srcset="https://www.livigro.com/wp-content/uploads/2018/06/naveen.jpg 410w, https://www.livigro.com/wp-content/uploads/2018/06/naveen-150x150.jpg 150w, https://www.livigro.com/wp-content/uploads/2018/06/naveen-300x300.jpg 300w, https://www.livigro.com/wp-content/uploads/2018/06/naveen-100x100.jpg 100w, https://www.livigro.com/wp-content/uploads/2018/06/naveen-275x275.jpg 275w" sizes="(max-width: 410px) 100vw, 410px" />					</div>
+										<div class="info">
+				        				        	<h3>Naveen Vijayakumar</h3>
+				        						<span>Co-Founder &amp; C00</span>
+					</div>
+				</div>	
+											<div class="roll-team">
+										<div class="photo">
+						<div class="overlay">
+							<div class="content">
+								<p class="text"></p>
+								<ul class="socials">
+																																			</ul>
+							</div>
+						</div>
+						<img width="410" height="410" src="../wp-content/uploads/2018/06/vadivel-410x410.jpg" class="attachment-rocked-medium-thumb size-rocked-medium-thumb wp-post-image" alt="vadivel" srcset="https://www.livigro.com/wp-content/uploads/2018/06/vadivel.jpg 410w, https://www.livigro.com/wp-content/uploads/2018/06/vadivel-150x150.jpg 150w, https://www.livigro.com/wp-content/uploads/2018/06/vadivel-300x300.jpg 300w, https://www.livigro.com/wp-content/uploads/2018/06/vadivel-100x100.jpg 100w, https://www.livigro.com/wp-content/uploads/2018/06/vadivel-275x275.jpg 275w" sizes="(max-width: 410px) 100vw, 410px" />					</div>
+										<div class="info">
+				        				        	<h3>Vadivel Murugan</h3>
+				        						<span>Consultant CTO</span>
+					</div>
+				</div>	
+											<div class="roll-team">
+										<div class="photo">
+						<div class="overlay">
+							<div class="content">
+								<p class="text"></p>
+								<ul class="socials">
+																																			</ul>
+							</div>
+						</div>
+						<img width="410" height="410" src="../wp-content/uploads/2018/06/subash-410x410.jpg" class="attachment-rocked-medium-thumb size-rocked-medium-thumb wp-post-image" alt="subash" srcset="https://www.livigro.com/wp-content/uploads/2018/06/subash.jpg 410w, https://www.livigro.com/wp-content/uploads/2018/06/subash-150x150.jpg 150w, https://www.livigro.com/wp-content/uploads/2018/06/subash-300x300.jpg 300w, https://www.livigro.com/wp-content/uploads/2018/06/subash-100x100.jpg 100w, https://www.livigro.com/wp-content/uploads/2018/06/subash-275x275.jpg 275w" sizes="(max-width: 410px) 100vw, 410px" />					</div>
+										<div class="info">
+				        				        	<h3>Subash S</h3>
+				        						<span>Product Development</span>
+					</div>
+				</div>	
+											<div class="roll-team">
+										<div class="photo">
+						<div class="overlay">
+							<div class="content">
+								<p class="text"></p>
+								<ul class="socials">
+																																			</ul>
+							</div>
+						</div>
+						<img width="410" height="410" src="../wp-content/uploads/2018/06/Suresh-410x410.jpg" class="attachment-rocked-medium-thumb size-rocked-medium-thumb wp-post-image" alt="Suresh" srcset="https://www.livigro.com/wp-content/uploads/2018/06/Suresh.jpg 410w, https://www.livigro.com/wp-content/uploads/2018/06/Suresh-150x150.jpg 150w, https://www.livigro.com/wp-content/uploads/2018/06/Suresh-300x300.jpg 300w, https://www.livigro.com/wp-content/uploads/2018/06/Suresh-100x100.jpg 100w, https://www.livigro.com/wp-content/uploads/2018/06/Suresh-275x275.jpg 275w" sizes="(max-width: 410px) 100vw, 410px" />					</div>
+										<div class="info">
+				        				        	<h3>E. Suresh Krishnan</h3>
+				        						<span>Product Development</span>
+					</div>
+				</div>	
+											<div class="roll-team">
+										<div class="photo">
+						<div class="overlay">
+							<div class="content">
+								<p class="text"></p>
+								<ul class="socials">
+																																			</ul>
+							</div>
+						</div>
+						<img width="410" height="410" src="../wp-content/uploads/2018/06/Arasu-410x410.jpg" class="attachment-rocked-medium-thumb size-rocked-medium-thumb wp-post-image" alt="Arasu" srcset="https://www.livigro.com/wp-content/uploads/2018/06/Arasu.jpg 410w, https://www.livigro.com/wp-content/uploads/2018/06/Arasu-150x150.jpg 150w, https://www.livigro.com/wp-content/uploads/2018/06/Arasu-300x300.jpg 300w, https://www.livigro.com/wp-content/uploads/2018/06/Arasu-100x100.jpg 100w, https://www.livigro.com/wp-content/uploads/2018/06/Arasu-275x275.jpg 275w" sizes="(max-width: 410px) 100vw, 410px" />					</div>
+										<div class="info">
+				        				        	<h3>Arasu</h3>
+				        						<span>Sales &amp; Marketing</span>
+					</div>
+				</div>	
+											<div class="roll-team">
+										<div class="photo">
+						<div class="overlay">
+							<div class="content">
+								<p class="text"></p>
+								<ul class="socials">
+																																			</ul>
+							</div>
+						</div>
+						<img width="410" height="410" src="../wp-content/uploads/2018/06/Subramaniam-410x410.jpg" class="attachment-rocked-medium-thumb size-rocked-medium-thumb wp-post-image" alt="Subramaniam" srcset="https://www.livigro.com/wp-content/uploads/2018/06/Subramaniam.jpg 410w, https://www.livigro.com/wp-content/uploads/2018/06/Subramaniam-150x150.jpg 150w, https://www.livigro.com/wp-content/uploads/2018/06/Subramaniam-300x300.jpg 300w, https://www.livigro.com/wp-content/uploads/2018/06/Subramaniam-100x100.jpg 100w, https://www.livigro.com/wp-content/uploads/2018/06/Subramaniam-275x275.jpg 275w" sizes="(max-width: 410px) 100vw, 410px" />					</div>
+										<div class="info">
+				        				        	<h3>Subramanian</h3>
+				        						<span>Finance</span>
+					</div>
+				</div>	
+											<div class="roll-team">
+										<div class="photo">
+						<div class="overlay">
+							<div class="content">
+								<p class="text"></p>
+								<ul class="socials">
+																																			</ul>
+							</div>
+						</div>
+						<img width="410" height="410" src="../wp-content/uploads/2018/06/Prajakt-410x410.jpg" class="attachment-rocked-medium-thumb size-rocked-medium-thumb wp-post-image" alt="Prajakt" srcset="https://www.livigro.com/wp-content/uploads/2018/06/Prajakt.jpg 410w, https://www.livigro.com/wp-content/uploads/2018/06/Prajakt-150x150.jpg 150w, https://www.livigro.com/wp-content/uploads/2018/06/Prajakt-300x300.jpg 300w, https://www.livigro.com/wp-content/uploads/2018/06/Prajakt-100x100.jpg 100w, https://www.livigro.com/wp-content/uploads/2018/06/Prajakt-275x275.jpg 275w" sizes="(max-width: 410px) 100vw, 410px" />					</div>
+										<div class="info">
+				        				        	<h3>Prajakt Raut</h3>
+				        						<span>Growth Mentor</span>
+					</div>
+				</div>	
+											<div class="roll-team">
+										<div class="photo">
+						<div class="overlay">
+							<div class="content">
+								<p class="text"></p>
+								<ul class="socials">
+																																			</ul>
+							</div>
+						</div>
+						<img width="410" height="410" src="../wp-content/uploads/2018/06/vasundhara-410x410.jpg" class="attachment-rocked-medium-thumb size-rocked-medium-thumb wp-post-image" alt="vasundhara" srcset="https://www.livigro.com/wp-content/uploads/2018/06/vasundhara.jpg 410w, https://www.livigro.com/wp-content/uploads/2018/06/vasundhara-150x150.jpg 150w, https://www.livigro.com/wp-content/uploads/2018/06/vasundhara-300x300.jpg 300w, https://www.livigro.com/wp-content/uploads/2018/06/vasundhara-100x100.jpg 100w, https://www.livigro.com/wp-content/uploads/2018/06/vasundhara-275x275.jpg 275w" sizes="(max-width: 410px) 100vw, 410px" />					</div>
+										<div class="info">
+				        				        	<h3>Vasundhara</h3>
+				        						<span>Design</span>
+					</div>
+				</div>	
+											<div class="roll-team">
+										<div class="photo">
+						<div class="overlay">
+							<div class="content">
+								<p class="text"></p>
+								<ul class="socials">
+																																			</ul>
+							</div>
+						</div>
+						<img width="410" height="410" src="../wp-content/uploads/2018/06/Ajay-410x410.jpg" class="attachment-rocked-medium-thumb size-rocked-medium-thumb wp-post-image" alt="ajay" srcset="https://www.livigro.com/wp-content/uploads/2018/06/Ajay.jpg 410w, https://www.livigro.com/wp-content/uploads/2018/06/Ajay-150x150.jpg 150w, https://www.livigro.com/wp-content/uploads/2018/06/Ajay-300x300.jpg 300w, https://www.livigro.com/wp-content/uploads/2018/06/Ajay-100x100.jpg 100w, https://www.livigro.com/wp-content/uploads/2018/06/Ajay-275x275.jpg 275w" sizes="(max-width: 410px) 100vw, 410px" />					</div>
+										<div class="info">
+				        				        	<h3>Ajay Justice</h3>
+				        						<span>Legal Advisor</span>
+					</div>
+				</div>	
+											<div class="roll-team">
+										<div class="photo">
+						<div class="overlay">
+							<div class="content">
+								<p class="text"></p>
+								<ul class="socials">
+																																			</ul>
+							</div>
+						</div>
+						<img width="410" height="375" src="../wp-content/uploads/2018/06/dummy-profile-pic-male-410x375.jpg" class="attachment-rocked-medium-thumb size-rocked-medium-thumb wp-post-image" alt="profile-pic-male" srcset="https://www.livigro.com/wp-content/uploads/2018/06/dummy-profile-pic-male-410x375.jpg 410w, https://www.livigro.com/wp-content/uploads/2018/06/dummy-profile-pic-male-300x275.jpg 300w, https://www.livigro.com/wp-content/uploads/2018/06/dummy-profile-pic-male-100x92.jpg 100w, https://www.livigro.com/wp-content/uploads/2018/06/dummy-profile-pic-male-275x252.jpg 275w, https://www.livigro.com/wp-content/uploads/2018/06/dummy-profile-pic-male.jpg 415w" sizes="(max-width: 410px) 100vw, 410px" />					</div>
+										<div class="info">
+				        				        	<h3>Dr. Rajesh Prabhu</h3>
+				        						<span>Medical Advisory</span>
+					</div>
+				</div>	
+											<div class="roll-team">
+										<div class="photo">
+						<div class="overlay">
+							<div class="content">
+								<p class="text"></p>
+								<ul class="socials">
+																																			</ul>
+							</div>
+						</div>
+						<img width="410" height="410" src="../wp-content/uploads/2018/07/IMG_20180726_191658-410x410.jpg" class="attachment-rocked-medium-thumb size-rocked-medium-thumb wp-post-image" alt="" srcset="https://www.livigro.com/wp-content/uploads/2018/07/IMG_20180726_191658.jpeg 410w, https://www.livigro.com/wp-content/uploads/2018/07/IMG_20180726_191658-150x150.jpeg 150w, https://www.livigro.com/wp-content/uploads/2018/07/IMG_20180726_191658-300x300.jpeg 300w, https://www.livigro.com/wp-content/uploads/2018/07/IMG_20180726_191658-100x100.jpeg 100w, https://www.livigro.com/wp-content/uploads/2018/07/IMG_20180726_191658-275x275.jpeg 275w" sizes="(max-width: 410px) 100vw, 410px" />					</div>
+										<div class="info">
+				        				        	<h3>Dr. Poornima</h3>
+				        						<span>Medical Advisory</span>
+					</div>
+				</div>	
+											<div class="roll-team">
+										<div class="photo">
+						<div class="overlay">
+							<div class="content">
+								<p class="text"></p>
+								<ul class="socials">
+																																			</ul>
+							</div>
+						</div>
+						<img width="410" height="410" src="../wp-content/uploads/2018/06/Serena-410x410.jpg" class="attachment-rocked-medium-thumb size-rocked-medium-thumb wp-post-image" alt="Serena" srcset="https://www.livigro.com/wp-content/uploads/2018/06/Serena.jpg 410w, https://www.livigro.com/wp-content/uploads/2018/06/Serena-150x150.jpg 150w, https://www.livigro.com/wp-content/uploads/2018/06/Serena-300x300.jpg 300w, https://www.livigro.com/wp-content/uploads/2018/06/Serena-100x100.jpg 100w, https://www.livigro.com/wp-content/uploads/2018/06/Serena-275x275.jpg 275w" sizes="(max-width: 410px) 100vw, 410px" />					</div>
+										<div class="info">
+				        				        	<h3>Dr. Serena Francis</h3>
+				        						<span>Medical Advisory</span>
+					</div>
+				</div>	
+					</div>
+
+			
+	
+	</div></div></div></div><div id="pg-854-3"  class="panel-grid panel-has-style" ><div class="icons_bg siteorigin-panels-stretch rocked-stretch panel-row-style panel-row-style-for-854-3" style="padding: 100px 0; " data-stretch-type="full" ><div id="pgc-854-3-0"  class="panel-grid-cell panel-grid-cell-empty" ></div><div id="pgc-854-3-1"  class="panel-grid-cell" ><div id="panel-854-3-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="3" ><div class="so-widget-sow-image so-widget-sow-image-default-bd5cd9da0588">
+
+<div class="sow-image-container">
+<a href="https://www.startupindia.gov.in/" target="_blank" rel="noopener noreferrer" >	<img src="../wp-content/uploads/2018/07/startupindiapng.png" width="656" height="146" srcset="https://www.livigro.com/wp-content/uploads/2018/07/startupindiapng.png 656w, https://www.livigro.com/wp-content/uploads/2018/07/startupindiapng-300x67.png 300w, https://www.livigro.com/wp-content/uploads/2018/07/startupindiapng-410x91.png 410w, https://www.livigro.com/wp-content/uploads/2018/07/startupindiapng-100x22.png 100w, https://www.livigro.com/wp-content/uploads/2018/07/startupindiapng-275x61.png 275w" sizes="(max-width: 656px) 100vw, 656px" title="startup India" alt="start up health" 		class="so-widget-image"/>
+</a></div>
+
+</div></div></div><div id="pgc-854-3-2"  class="panel-grid-cell" ><div id="panel-854-3-2-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4" ><div class="so-widget-sow-image so-widget-sow-image-default-bd5cd9da0588">
+
+<div class="sow-image-container">
+<a href="https://www.startuphealth.com/" target="_blank" rel="noopener noreferrer" >	<img src="../wp-content/uploads/2018/06/Startuphealthlogo_tm.png" width="2925" height="715" srcset="https://www.livigro.com/wp-content/uploads/2018/06/Startuphealthlogo_tm.png 2925w, https://www.livigro.com/wp-content/uploads/2018/06/Startuphealthlogo_tm-300x73.png 300w, https://www.livigro.com/wp-content/uploads/2018/06/Startuphealthlogo_tm-768x188.png 768w, https://www.livigro.com/wp-content/uploads/2018/06/Startuphealthlogo_tm-1024x250.png 1024w, https://www.livigro.com/wp-content/uploads/2018/06/Startuphealthlogo_tm-700x171.png 700w, https://www.livigro.com/wp-content/uploads/2018/06/Startuphealthlogo_tm-410x100.png 410w, https://www.livigro.com/wp-content/uploads/2018/06/Startuphealthlogo_tm-100x24.png 100w, https://www.livigro.com/wp-content/uploads/2018/06/Startuphealthlogo_tm-275x67.png 275w" sizes="(max-width: 2925px) 100vw, 2925px" title="start up health" alt="start up health" 		class="so-widget-image"/>
+</a></div>
+
+</div></div></div><div id="pgc-854-3-3"  class="panel-grid-cell" ><div id="panel-854-3-3-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="5" ><div class="so-widget-sow-image so-widget-sow-image-default-9e7b621efa2e">
+
+<div class="sow-image-container">
+<a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer" >	<img src="../wp-content/uploads/2018/06/ourpfoot1-1.png" width="293" height="75" srcset="https://www.livigro.com/wp-content/uploads/2018/06/ourpfoot1-1.png 293w, https://www.livigro.com/wp-content/uploads/2018/06/ourpfoot1-1-100x26.png 100w, https://www.livigro.com/wp-content/uploads/2018/06/ourpfoot1-1-275x70.png 275w" sizes="(max-width: 293px) 100vw, 293px" title="Aws Activate" alt="Aws Activate" 		class="so-widget-image"/>
+</a></div>
+
+</div></div></div><div id="pgc-854-3-4"  class="panel-grid-cell panel-grid-cell-mobile-last" ><div id="panel-854-3-4-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="6" ><div class="so-widget-sow-image so-widget-sow-image-default-bd5cd9da0588">
+
+<div class="sow-image-container">
+<a href="http://applyifi.com/" target="_blank" rel="noopener noreferrer" >	<img src="../wp-content/uploads/2018/06/ourpfoot2-1.png" width="187" height="62" srcset="https://www.livigro.com/wp-content/uploads/2018/06/ourpfoot2-1.png 187w, https://www.livigro.com/wp-content/uploads/2018/06/ourpfoot2-1-100x33.png 100w" sizes="(max-width: 187px) 100vw, 187px" title="applyifi" alt="applyifi" 		class="so-widget-image"/>
+</a></div>
+
+</div></div></div><div id="pgc-854-3-5"  class="panel-grid-cell panel-grid-cell-empty" ></div></div></div></div>							</div><!-- .entry-content -->
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
@@ -1734,7 +1941,7 @@ s0.parentNode.insertBefore(s1,s0);
         
 
             </div>
-                                                <ul id="responsive-menu" class=""><li id="responsive-menu-item-9" class="home  menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children"><a class="responsive-menu-item-link">Services<div class="responsive-menu-subarrow responsive-menu-subarrow-active">▲</div></a><ul class='responsive-menu-submenu responsive-menu-submenu-depth-1 responsive-menu-submenu-open'><li id="responsive-menu-item-974" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="../personalhealth-2/index.html" class="responsive-menu-item-link">Personal Health</a></li><li id="responsive-menu-item-882" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="../diagnostics/index.html" class="responsive-menu-item-link">Diagnostics</a></li><li id="responsive-menu-item-884" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="../doctor-4/index.html" class="responsive-menu-item-link">Doctors</a></li><li id="responsive-menu-item-883" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="{{ url('corporate') }}" class="responsive-menu-item-link">Corporate</a></li></ul></li><li id="responsive-menu-item-12" class="Dolor  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="{{ url('about') }}" class="responsive-menu-item-link">About Us</a></li><li id="responsive-menu-item-14" class="Page 1b  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="../termsofuse/index.html" class="responsive-menu-item-link">Terms of Use</a></li><li id="responsive-menu-item-15" class="Page 2a  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="../privacy/index.html" class="responsive-menu-item-link">Privacy Policy</a></li><li id="responsive-menu-item-16" class="Page 2b  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="../enquiry/index.html" class="responsive-menu-item-link">Contact Us</a></li><li id="responsive-menu-item-987" class=" res-visible menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="#" class="responsive-menu-item-link">VIEW REPORTS</a></li></ul>                                                                    <div id="responsive-menu-additional-content"><div class="col-sm-12">
+                                                <ul id="responsive-menu" class=""><li id="responsive-menu-item-9" class="home  menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children"><a class="responsive-menu-item-link">Services<div class="responsive-menu-subarrow responsive-menu-subarrow-active">▲</div></a><ul class='responsive-menu-submenu responsive-menu-submenu-depth-1 responsive-menu-submenu-open'><li id="responsive-menu-item-974" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="../personalhealth-2/index.html" class="responsive-menu-item-link">Personal Health</a></li><li id="responsive-menu-item-882" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="../diagnostics/index.html" class="responsive-menu-item-link">Diagnostics</a></li><li id="responsive-menu-item-884" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="../doctor-4/index.html" class="responsive-menu-item-link">Doctors</a></li><li id="responsive-menu-item-883" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="{{ url('corporate') }}" class="responsive-menu-item-link">Corporate</a></li></ul></li><li id="responsive-menu-item-12" class="Dolor  menu-item menu-item-type-custom menu-item-object-custom current-menu-item responsive-menu-item responsive-menu-current-item"><a href="{{ url('about') }}" class="responsive-menu-item-link">About Us</a></li><li id="responsive-menu-item-14" class="Page 1b  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="../termsofuse/index.html" class="responsive-menu-item-link">Terms of Use</a></li><li id="responsive-menu-item-15" class="Page 2a  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="../privacy/index.html" class="responsive-menu-item-link">Privacy Policy</a></li><li id="responsive-menu-item-16" class="Page 2b  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="../enquiry/index.html" class="responsive-menu-item-link">Contact Us</a></li><li id="responsive-menu-item-987" class=" res-visible menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="#" class="responsive-menu-item-link">VIEW REPORTS</a></li></ul>                                                                    <div id="responsive-menu-additional-content"><div class="col-sm-12">
 <div class="col-sm-6">
 <div class="btn btn-primary"><a href="../enquiry/index.html">Enquiry</a></div>
 </div>
@@ -1753,15 +1960,18 @@ s0.parentNode.insertBefore(s1,s0);
 
 </div></div>                        </div>
 </div>
-                <style type="text/css" media="all"
-                       id="siteorigin-panels-layouts-footer">
-                       #pgc-w5b84f73ae905a-0-0 , #pgc-w5b84f73ae905a-1-0 , #pgc-w5b84f73ae905a-2-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-w5b84f73ae905a #panel-w5b84f73ae905a-0-0-0 , #pl-w5b84f73ae905a #panel-w5b84f73ae905a-1-0-0 {  } #pg-w5b84f73ae905a-0 , #pg-w5b84f73ae905a-1 , #pl-w5b84f73ae905a .so-panel , #pl-w5b84f73ae905a .so-panel:last-child { margin-bottom:0px } #pg-w5b84f73ae905a-0.panel-no-style, #pg-w5b84f73ae905a-0.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-1.panel-no-style, #pg-w5b84f73ae905a-1.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-2.panel-no-style, #pg-w5b84f73ae905a-2.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #pgc-w5b84f73ae905a-1-0 { align-self:auto } #panel-w5b84f73ae905a-1-0-0> .panel-widget-style { padding:40px 0px 0px 0px } @media (max-width:780px){ #pg-w5b84f73ae905a-0.panel-no-style, #pg-w5b84f73ae905a-0.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-1.panel-no-style, #pg-w5b84f73ae905a-1.panel-has-style > .panel-row-style , #pg-w5b84f73ae905a-2.panel-no-style, #pg-w5b84f73ae905a-2.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-w5b84f73ae905a-0 .panel-grid-cell , #pg-w5b84f73ae905a-1 .panel-grid-cell , #pg-w5b84f73ae905a-2 .panel-grid-cell { margin-right:0 } #pg-w5b84f73ae905a-0 .panel-grid-cell , #pg-w5b84f73ae905a-1 .panel-grid-cell , #pg-w5b84f73ae905a-2 .panel-grid-cell { width:100% } #pl-w5b84f73ae905a .panel-grid-cell { padding:0 } #pl-w5b84f73ae905a .panel-grid .panel-grid-cell-empty { display:none } #pl-w5b84f73ae905a .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } /* Layout w5b84f73ae8f9a */ #pgc-w5b84f73ae8f9a-0-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-w5b84f73ae8f9a #panel-w5b84f73ae8f9a-0-0-0 {  } #pl-w5b84f73ae8f9a .so-panel , #pl-w5b84f73ae8f9a .so-panel:last-child { margin-bottom:0px } #pg-w5b84f73ae8f9a-0.panel-no-style, #pg-w5b84f73ae8f9a-0.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } @media (max-width:780px){ #pg-w5b84f73ae8f9a-0.panel-no-style, #pg-w5b84f73ae8f9a-0.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-w5b84f73ae8f9a-0 .panel-grid-cell { margin-right:0 } #pg-w5b84f73ae8f9a-0 .panel-grid-cell { width:100% } #pl-w5b84f73ae8f9a .panel-grid-cell { padding:0 } #pl-w5b84f73ae8f9a .panel-grid .panel-grid-cell-empty { display:none } #pl-w5b84f73ae8f9a .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style><script type='text/javascript' src='../wp-content/plugins/blog-designer/js/designer5010.js?ver=4.9.8'></script>
-
+<script type='text/javascript' src='../wp-content/plugins/blog-designer/js/designer5010.js?ver=4.9.8'></script>
 <script type='text/javascript' src='../wp-content/plugins/click-to-chat-for-whatsapp/assets/js/appf24c.js?ver=1.6'></script>
 <script type='text/javascript' src='../wp-content/themes/rocked/js/skip-link-focus-fix08e0.js?ver=20130115'></script>
 <script type='text/javascript' src='../wp-content/themes/rocked/js/scripts5010.js?ver=4.9.8'></script>
 <script type='text/javascript' src='../wp-content/themes/rocked/js/main.min5010.js?ver=4.9.8'></script>
 <script type='text/javascript' src='../wp-includes/js/wp-embed.min5010.js?ver=4.9.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var panelsStyles = {"fullContainer":"body"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/siteorigin-panels/js/styling-272.mineed8.js?ver=2.7.2'></script>
 <script type="text/javascript">document.body.className = document.body.className.replace("siteorigin-panels-before-js","");</script>      <script>
 
             (function () {
