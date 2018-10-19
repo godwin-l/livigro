@@ -1169,7 +1169,7 @@ body { color:#555555}
             {{Form::password('password',['class'=>'wpcf7-form-control wpcf7-text wpcf7-validates-as-required','placeholder'=>'Password','aria-required'=>'true','aria-invalid'=>'false'])}}
             </span>
     </div>
-    <div class="enqury_full">
+    <div class="enqury_btn">
     {{Form::submit('Register',['class'=>'wpcf7-form-control wpcf7-submit'])}}
 </div>
 </div>
