@@ -21,8 +21,6 @@ Route::get('/search', 'LabController@labView');
 
 Route::get('/list', 'LabController@labList');
 
-Route::get('/list', 'LabController@labList');
-
 Route::get('/book/{id}', 'LabController@bookLab');
 
 Route::get('/view/{id}', 'LabController@viewLab');
