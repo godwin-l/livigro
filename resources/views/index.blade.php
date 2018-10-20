@@ -1134,8 +1134,8 @@ body { color:#555555}
 						<div class="btn-menu"><i class="fa fa-bars"></i></div>
 						<nav id="mainnav" class="mainnav">
 						<ul style="float:right;font-weight:bold">
-						<a href="login/index.html"><li style="margin-right: 1vw;">Login</li></a>
-						<a href="register/index.html"><li>Register</li></a>
+						<a href="/login"><li style="margin-right: 1vw;">Login</li></a>
+						<a href="/register"><li>Register</li></a>
 						</ul>
 													</nav><!-- #site-navigation -->
 					</div><!-- /.col-md-10 -->
@@ -1633,11 +1633,11 @@ user-friendly Technology.</p>
 					<aside id="sow-editor-2" class="widget widget_sow-editor"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<div></div>
-<div class="titee"><a href="about/index.html">About Us</a></div>
-<div class="titee"><a href="termsofuse/index.html">Terms Of Use</a></div>
-<div class="titee"><a href="privacy/index.html">Privacy Policy</a></div>
-<div class="titee"><a href="refund-policy/index.html">Refund Policy</a></div>
-<div class="titee"><a href="enquiry/index.html">Contact Us</a></div>
+<div class="titee"><a href="/about">About Us</a></div>
+<div class="titee"><a href="/termsofuse">Terms Of Use</a></div>
+<div class="titee"><a href="/privacy">Privacy Policy</a></div>
+<div class="titee"><a href="/refund-policy">Refund Policy</a></div>
+<div class="titee"><a href="/enquiry">Contact Us</a></div>
 <div></div>
 <div class="share-links default-skin">
 <ul>
@@ -2167,9 +2167,9 @@ s0.parentNode.insertBefore(s1,s0);
         
 
             </div>
-                                                <ul id="responsive-menu" class=""><li id="responsive-menu-item-9" class="home  menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children"><a class="responsive-menu-item-link">Services<div class="responsive-menu-subarrow responsive-menu-subarrow-active">▲</div></a><ul class='responsive-menu-submenu responsive-menu-submenu-depth-1 responsive-menu-submenu-open'><li id="responsive-menu-item-974" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="personalhealth-2/index.html" class="responsive-menu-item-link">Personal Health</a></li><li id="responsive-menu-item-882" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="diagnostics/index.html" class="responsive-menu-item-link">Diagnostics</a></li><li id="responsive-menu-item-884" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="doctor-4/index.html" class="responsive-menu-item-link">Doctors</a></li><li id="responsive-menu-item-883" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="corporate-2/index.html" class="responsive-menu-item-link">Corporate</a></li></ul></li><li id="responsive-menu-item-12" class="Dolor  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="about/index.html" class="responsive-menu-item-link">About Us</a></li><li id="responsive-menu-item-14" class="Page 1b  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="termsofuse/index.html" class="responsive-menu-item-link">Terms of Use</a></li><li id="responsive-menu-item-15" class="Page 2a  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="privacy/index.html" class="responsive-menu-item-link">Privacy Policy</a></li><li id="responsive-menu-item-16" class="Page 2b  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="enquiry/index.html" class="responsive-menu-item-link">Contact Us</a></li><li id="responsive-menu-item-987" class=" res-visible menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="#" class="responsive-menu-item-link">VIEW REPORTS</a></li></ul>                                                                    <div id="responsive-menu-additional-content"><div class="col-sm-12">
+                                                <ul id="responsive-menu" class=""><li id="responsive-menu-item-9" class="home  menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children"><a class="responsive-menu-item-link">Services<div class="responsive-menu-subarrow responsive-menu-subarrow-active">▲</div></a><ul class='responsive-menu-submenu responsive-menu-submenu-depth-1 responsive-menu-submenu-open'><li id="responsive-menu-item-974" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="/personalhealth-2" class="responsive-menu-item-link">Personal Health</a></li><li id="responsive-menu-item-882" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="/diagnostics" class="responsive-menu-item-link">Diagnostics</a></li><li id="responsive-menu-item-884" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="/doctor-4" class="responsive-menu-item-link">Doctors</a></li><li id="responsive-menu-item-883" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="/corporate-2" class="responsive-menu-item-link">Corporate</a></li></ul></li><li id="responsive-menu-item-12" class="Dolor  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="/about" class="responsive-menu-item-link">About Us</a></li><li id="responsive-menu-item-14" class="Page 1b  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="/termsofuse" class="responsive-menu-item-link">Terms of Use</a></li><li id="responsive-menu-item-15" class="Page 2a  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="/privacy" class="responsive-menu-item-link">Privacy Policy</a></li><li id="responsive-menu-item-16" class="Page 2b  menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="/enquiry" class="responsive-menu-item-link">Contact Us</a></li><li id="responsive-menu-item-987" class=" res-visible menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item"><a href="#" class="responsive-menu-item-link">VIEW REPORTS</a></li></ul>                                                                    <div id="responsive-menu-additional-content"><div class="col-sm-12">
 <div class="col-sm-6">
-<div class="btn btn-primary"><a href="enquiry/index.html">Enquiry</a></div>
+<div class="btn btn-primary"><a href="/enquiry">Enquiry</a></div>
 </div>
 <div class="col-sm-6">
 <div class="share-links  left-menu"><ul><li>
