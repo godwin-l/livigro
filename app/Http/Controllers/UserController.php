@@ -50,11 +50,71 @@ public function registerView(){
         return view('user.login')->with('success','Registered successfully')->with('error','');
         }
     }
+
+
+    // Static Pages
+
     public function about(){
-        return view('about');
+        return view('static.about');
     }
 
     public function corporate(){
-        return view('corporate');
+        return view('static.corporate');
     }
+
+    public function diagnostics(){
+        return view('static.diagnostics');
+    }
+
+    public function diagnostics_notify(){
+        return view('static.diagnostics_notify');
+    }
+
+    public function doctor3(){
+        return view('static.doctor-3');
+    }
+
+    public function doctor4(){
+        return view('static.doctor-4');
+    }
+
+    public function enquiry(){
+        return view('static.enquiry');
+    }
+
+    public function essentialhealthp(){
+        return view('static.essential-health-p');
+    }
+
+    public function executivehealthcheckup(){
+        return view('static.executive-health-checkup');
+    }
+
+    public function healthcheckuppackages(){
+        return view('static.healthcheckuppackages');
+    }
+    
+    public function personal_health(){
+        return view('static.personal_health');
+    }
+    public function personalhealth2(){
+        return view('static.personalhealth-2');
+    }
+    public function premiumhealthcheckup(){
+        return view('static.premium-health-checkup');
+    }
+
+    public function privacy(){
+        return view('static.privacy');
+    }
+
+    public function refundpolicy(){
+        return view('static.refund-policy');
+    }
+
+    public function termsofuse(){
+        return view('static.termsofuse');
+    }
+
+
 }
