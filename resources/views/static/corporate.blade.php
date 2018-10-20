@@ -12,7 +12,7 @@
 
 <!-- This site is optimized with the Yoast SEO plugin v7.8 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Livigro corporate is specially designed for corporates, institutions or any organisations that care about employees’ health."/>
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="{{ url('') }}" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Corporate" />

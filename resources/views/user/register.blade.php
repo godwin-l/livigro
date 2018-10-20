@@ -9,7 +9,7 @@
 
 <title>Register - Livigro</title>
 
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="{{ url('') }}" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Essential Health Checkup - Livigro" />

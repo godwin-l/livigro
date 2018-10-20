@@ -10,7 +10,7 @@
 <title>Diagnostics</title>
 
 <meta name="description" content="Take your Lab to the next level with Livigro diagnostics. Increase your Presence online for free with Livigro diagnostics. Make additional customer base."/>
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="{{ url('') }}" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Diagnostics" />

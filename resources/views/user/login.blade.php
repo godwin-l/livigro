@@ -9,7 +9,7 @@
 
 <title>Login - Livigro</title>
 
-<link rel="canonical" href="/" />
+<link rel="canonical" href="{{ url('') }}" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Essential Health Checkup - Livigro" />

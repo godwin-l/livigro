@@ -11,7 +11,7 @@
 
 <!-- This site is optimized with the Yoast SEO plugin v7.8 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="We take care of your Personal Health.you Will get the Most cost-efficient health tests from Premium Labs at your Home-Office."/>
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="{{ url('') }}" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Personal Health" />

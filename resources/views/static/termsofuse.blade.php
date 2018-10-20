@@ -11,7 +11,7 @@
 
 <!-- This site is optimized with the Yoast SEO plugin v7.8 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Livigro Team, We as a team are passionate about revolutionizing the healthcare industry where patients have the upper hand in making their health decisions."/>
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="{{ url('') }}" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Terms of Use" />

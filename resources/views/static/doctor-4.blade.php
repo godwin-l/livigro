@@ -11,7 +11,7 @@
 
 <!-- This site is optimized with the Yoast SEO plugin v7.8 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Prime your online presence with Livigro Doctor. Raise test on your Favourite labs. Get connected with more patients, Access and manage health Records."/>
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="{{ url('') }}" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Doctor" />
