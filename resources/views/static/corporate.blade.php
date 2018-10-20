@@ -1125,7 +1125,7 @@ body { color:#555555}
 			<div class="container">
 				<div class="row">
 					<div class="site-branding col-md-3 col-sm-3 col-xs-3">
-						<a href="../index.html" title="Livigro"><img class="site-logo" src="../wp-content/uploads/2018/06/Livigro-Logo.jpg" alt="Livigro" /></a>					</div><!-- /.col-md-2 -->
+						<a href="{{ url('') }}" title="Livigro"><img class="site-logo" src="../wp-content/uploads/2018/06/Livigro-Logo.jpg" alt="Livigro" /></a>					</div><!-- /.col-md-2 -->
 					<div class="menu-wrapper col-md-9 col-sm-9 col-xs-9">
 						<div class="btn-menu"><i class="fa fa-bars"></i></div>
 						<nav id="mainnav" class="mainnav">
